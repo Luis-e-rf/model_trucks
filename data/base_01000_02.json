@@ -1,0 +1,5001 @@
+[ {
+  "departureTime" : "2021-02-01T09:12:09",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-01T08:22:25",
+  "plate" : "6737 HYI"
+}, {
+  "departureTime" : "2021-04-04T14:43:35",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T14:09:57",
+  "plate" : "1540 AGA"
+}, {
+  "departureTime" : "2021-02-04T09:49:54",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-04T09:41:42",
+  "plate" : "3637 FIX"
+}, {
+  "departureTime" : "2021-01-29T21:09:59",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-29T19:27:28",
+  "plate" : "8490 BHZ"
+}, {
+  "departureTime" : "2021-07-22T14:59:30",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-22T13:38:47",
+  "plate" : "0777 BTG"
+}, {
+  "departureTime" : "2021-03-08T10:49:34",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-03-08T09:59:43",
+  "plate" : "6614 IFM"
+}, {
+  "departureTime" : "2021-12-02T18:25:14",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-02T17:50:20",
+  "plate" : "5166 EFA"
+}, {
+  "departureTime" : "2021-09-18T10:58:34",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-18T09:56:45",
+  "plate" : "4623 UJG"
+}, {
+  "departureTime" : "2021-11-29T17:05:07",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-29T16:49:31",
+  "plate" : "1203 MUS"
+}, {
+  "departureTime" : "2021-08-17T15:59:16",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-17T14:52:17",
+  "plate" : "7262 WSA"
+}, {
+  "departureTime" : "2021-06-28T20:12:27",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-28T19:40:01",
+  "plate" : "6896 TWT"
+}, {
+  "departureTime" : "2021-02-26T12:19:31",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-26T10:40:59",
+  "plate" : "4210 XUE"
+}, {
+  "departureTime" : "2021-02-22T11:47:18",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-22T11:18:41",
+  "plate" : "7189 MYJ"
+}, {
+  "departureTime" : "2021-12-18T19:33:27",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-18T18:43:22",
+  "plate" : "1280 KNE"
+}, {
+  "departureTime" : "2021-12-24T17:04:45",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-24T15:11:21",
+  "plate" : "5424 QQW"
+}, {
+  "departureTime" : "2021-05-02T20:41:23",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-02T19:28:28",
+  "plate" : "7333 IFB"
+}, {
+  "departureTime" : "2021-11-17T16:52:12",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-17T15:17:20",
+  "plate" : "3284 DNE"
+}, {
+  "departureTime" : "2021-10-07T10:18:54",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-07T09:58:23",
+  "plate" : "1475 BKQ"
+}, {
+  "departureTime" : "2021-08-17T12:28:15",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-17T11:35:18",
+  "plate" : "7255 UKL"
+}, {
+  "departureTime" : "2021-12-02T13:45:06",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-02T11:46:28",
+  "plate" : "0898 XPD"
+}, {
+  "departureTime" : "2021-08-21T15:39:08",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-21T14:11:02",
+  "plate" : "2645 NAA"
+}, {
+  "departureTime" : "2021-09-20T19:43:55",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-20T18:39:50",
+  "plate" : "0560 TLM"
+}, {
+  "departureTime" : "2021-03-09T10:32:03",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-09T08:54:41",
+  "plate" : "0038 QMQ"
+}, {
+  "departureTime" : "2021-05-30T12:16:45",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-30T11:59:36",
+  "plate" : "0271 XXO"
+}, {
+  "departureTime" : "2021-02-19T19:56:44",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-19T19:19:35",
+  "plate" : "0578 CPL"
+}, {
+  "departureTime" : "2021-01-15T09:18:18",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-15T07:53:55",
+  "plate" : "5733 XNU"
+}, {
+  "departureTime" : "2021-09-14T15:49:38",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-14T15:01:29",
+  "plate" : "4271 NTP"
+}, {
+  "departureTime" : "2021-03-11T09:20:40",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-11T08:08:55",
+  "plate" : "1507 DUY"
+}, {
+  "departureTime" : "2021-05-02T19:25:49",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-02T17:37:17",
+  "plate" : "3866 QSL"
+}, {
+  "departureTime" : "2021-10-01T07:56:49",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-01T07:22:27",
+  "plate" : "1433 DVQ"
+}, {
+  "departureTime" : "2021-06-26T19:09",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-26T18:24:54",
+  "plate" : "8082 TPN"
+}, {
+  "departureTime" : "2021-09-03T13:22:53",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-03T11:52:39",
+  "plate" : "6721 WSY"
+}, {
+  "departureTime" : "2021-06-10T10:11:09",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-06-10T08:24:49",
+  "plate" : "8009 QSE"
+}, {
+  "departureTime" : "2021-11-10T12:56:52",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-10T12:45:27",
+  "plate" : "0578 MFL"
+}, {
+  "departureTime" : "2021-11-30T08:57:12",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-30T08:42:11",
+  "plate" : "1117 PIJ"
+}, {
+  "departureTime" : "2021-11-06T17:01:49",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-06T15:15:23",
+  "plate" : "1082 QVK"
+}, {
+  "departureTime" : "2021-09-18T10:58:41",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-18T10:47:42",
+  "plate" : "5467 IQS"
+}, {
+  "departureTime" : "2021-08-14T11:28:52",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-14T09:30:22",
+  "plate" : "7829 SNR"
+}, {
+  "departureTime" : "2021-01-11T09:09:11",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-01-11T08:55:35",
+  "plate" : "4049 LUM"
+}, {
+  "departureTime" : "2021-07-06T16:14:04",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-06T15:15:32",
+  "plate" : "6833 VEE"
+}, {
+  "departureTime" : "2021-12-28T12:00:56",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-12-28T11:06:17",
+  "plate" : "6329 REV"
+}, {
+  "departureTime" : "2021-07-31T15:10:29",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-31T15:03:54",
+  "plate" : "0680 PXS"
+}, {
+  "departureTime" : "2021-12-19T13:27:09",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-19T12:12:04",
+  "plate" : "2425 RGE"
+}, {
+  "departureTime" : "2021-05-03T09:36:08",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-03T08:52:55",
+  "plate" : "8549 THC"
+}, {
+  "departureTime" : "2021-05-11T15:06:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-11T13:11:27",
+  "plate" : "6775 CIH"
+}, {
+  "departureTime" : "2021-03-23T13:23:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-23T12:33:04",
+  "plate" : "9721 ZQS"
+}, {
+  "departureTime" : "2021-09-21T15:25:37",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-21T13:55:59",
+  "plate" : "2918 MPR"
+}, {
+  "departureTime" : "2021-09-07T12:58:57",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-07T11:47:02",
+  "plate" : "2378 NIQ"
+}, {
+  "departureTime" : "2021-03-07T18:23:26",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-07T16:28:23",
+  "plate" : "1323 QIZ"
+}, {
+  "departureTime" : "2021-11-16T17:02:21",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-16T16:27:58",
+  "plate" : "0471 IAN"
+}, {
+  "departureTime" : "2021-11-28T13:50:22",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-28T12:41:50",
+  "plate" : "0109 RCB"
+}, {
+  "departureTime" : "2021-02-09T12:27:03",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-09T10:45:01",
+  "plate" : "8955 CGF"
+}, {
+  "departureTime" : "2021-11-10T14:51:22",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-10T14:49:30",
+  "plate" : "3673 ZGW"
+}, {
+  "departureTime" : "2021-05-25T11:15:12",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-25T10:13:27",
+  "plate" : "2225 HIH"
+}, {
+  "departureTime" : "2021-07-31T16:56:30",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-31T15:31:06",
+  "plate" : "7075 QXC"
+}, {
+  "departureTime" : "2021-07-28T11:52:54",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-28T10:54:56",
+  "plate" : "4390 INM"
+}, {
+  "departureTime" : "2021-06-27T20:09:48",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-27T19:43:50",
+  "plate" : "5199 VIJ"
+}, {
+  "departureTime" : "2021-10-16T10:53:52",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-16T10:43:30",
+  "plate" : "6930 FMI"
+}, {
+  "departureTime" : "2021-03-07T10:02:23",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-07T09:42:38",
+  "plate" : "9465 VHP"
+}, {
+  "departureTime" : "2021-11-10T08:35:33",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-10T08:13:10",
+  "plate" : "0263 QJM"
+}, {
+  "departureTime" : "2021-09-23T13:20:34",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-23T13:15:38",
+  "plate" : "9272 SHN"
+}, {
+  "departureTime" : "2021-06-21T12:29:28",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-21T10:43:01",
+  "plate" : "6976 FNK"
+}, {
+  "departureTime" : "2021-06-24T10:37:40",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-06-24T10:06:41",
+  "plate" : "4803 UPO"
+}, {
+  "departureTime" : "2021-10-08T11:35:31",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-08T09:40:24",
+  "plate" : "3364 UWD"
+}, {
+  "departureTime" : "2021-02-06T09:49:56",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-06T08:39:27",
+  "plate" : "7615 BJH"
+}, {
+  "departureTime" : "2021-02-19T18:11:15",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-19T17:26:18",
+  "plate" : "9446 GQP"
+}, {
+  "departureTime" : "2021-02-03T08:46:46",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-02-03T07:03:42",
+  "plate" : "1556 KXJ"
+}, {
+  "departureTime" : "2021-11-24T13:45:12",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-24T13:28:10",
+  "plate" : "4687 ZWT"
+}, {
+  "departureTime" : "2021-12-13T20:13:07",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-13T19:54:28",
+  "plate" : "0960 CPK"
+}, {
+  "departureTime" : "2021-07-04T08:32:27",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-04T08:29:53",
+  "plate" : "3330 MXL"
+}, {
+  "departureTime" : "2021-07-31T11:18:23",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-31T09:42:02",
+  "plate" : "3571 JDE"
+}, {
+  "departureTime" : "2021-06-25T19:00:27",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-25T17:25:29",
+  "plate" : "1491 GZR"
+}, {
+  "departureTime" : "2021-11-20T13:35:40",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-20T12:29:04",
+  "plate" : "7142 IEE"
+}, {
+  "departureTime" : "2021-07-20T13:14:08",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T11:14:34",
+  "plate" : "8638 TDG"
+}, {
+  "departureTime" : "2021-12-13T10:06:51",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-13T09:33:29",
+  "plate" : "8653 GYY"
+}, {
+  "departureTime" : "2021-11-14T13:08:32",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-14T12:03:39",
+  "plate" : "8621 CQG"
+}, {
+  "departureTime" : "2021-06-22T19:40:10",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-22T17:47:03",
+  "plate" : "8553 CZV"
+}, {
+  "departureTime" : "2021-08-23T17:55:04",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-23T16:39:47",
+  "plate" : "3041 MGX"
+}, {
+  "departureTime" : "2021-03-25T12:01:36",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-25T11:45:55",
+  "plate" : "4504 TUJ"
+}, {
+  "departureTime" : "2021-08-07T10:49:36",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-07T10:16:55",
+  "plate" : "6527 DQY"
+}, {
+  "departureTime" : "2021-02-08T19:30:29",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-08T19:16:41",
+  "plate" : "8567 WAD"
+}, {
+  "departureTime" : "2021-06-03T14:03:07",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-06-03T12:52:32",
+  "plate" : "4632 MZC"
+}, {
+  "departureTime" : "2021-01-17T10:12:24",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-17T09:43:07",
+  "plate" : "6886 JSM"
+}, {
+  "departureTime" : "2021-09-22T13:17:28",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-22T12:19:19",
+  "plate" : "6097 VPB"
+}, {
+  "departureTime" : "2021-04-07T11:10:03",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-07T11:06:32",
+  "plate" : "6785 ZMJ"
+}, {
+  "departureTime" : "2021-06-11T12:39:38",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-11T10:56:30",
+  "plate" : "5938 LDN"
+}, {
+  "departureTime" : "2021-05-22T10:29:49",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-22T08:54:35",
+  "plate" : "8886 PFB"
+}, {
+  "departureTime" : "2021-01-26T14:28:02",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-26T12:43:33",
+  "plate" : "0334 RYJ"
+}, {
+  "departureTime" : "2021-01-09T14:49:51",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-09T14:40:20",
+  "plate" : "9147 IVA"
+}, {
+  "departureTime" : "2021-04-23T20:02:36",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-23T19:01:12",
+  "plate" : "7475 CFO"
+}, {
+  "departureTime" : "2021-03-04T16:03:37",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-04T15:19:14",
+  "plate" : "2775 VKJ"
+}, {
+  "departureTime" : "2021-01-30T10:11:06",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-30T09:50:15",
+  "plate" : "9247 CFC"
+}, {
+  "departureTime" : "2021-11-06T16:00:20",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-06T14:40:54",
+  "plate" : "4427 PXH"
+}, {
+  "departureTime" : "2021-11-24T17:43:07",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-24T16:30:36",
+  "plate" : "1719 KVO"
+}, {
+  "departureTime" : "2021-08-21T12:48:49",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-21T12:06:53",
+  "plate" : "2850 BIM"
+}, {
+  "departureTime" : "2021-10-30T18:45:48",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-30T16:57:20",
+  "plate" : "1744 VYN"
+}, {
+  "departureTime" : "2021-02-16T16:20:34",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-16T16:12:28",
+  "plate" : "7273 GGX"
+}, {
+  "departureTime" : "2021-02-05T17:48:03",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-05T15:55:49",
+  "plate" : "2532 QQB"
+}, {
+  "departureTime" : "2021-12-02T11:34:14",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-02T10:22:28",
+  "plate" : "1362 LDV"
+}, {
+  "departureTime" : "2021-11-23T17:49:09",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-23T15:53:20",
+  "plate" : "2911 WAE"
+}, {
+  "departureTime" : "2021-01-15T18:32:14",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-15T17:47:44",
+  "plate" : "7028 FRX"
+}, {
+  "departureTime" : "2021-11-02T10:59:23",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-02T09:14:57",
+  "plate" : "7979 MZT"
+}, {
+  "departureTime" : "2021-08-14T17:44:35",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-14T16:57:34",
+  "plate" : "7015 TUB"
+}, {
+  "departureTime" : "2021-10-26T17:40:54",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-26T17:28:12",
+  "plate" : "0872 CMW"
+}, {
+  "departureTime" : "2021-10-26T15:01:38",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-26T13:57:36",
+  "plate" : "2856 POS"
+}, {
+  "departureTime" : "2021-02-22T13:33:27",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-22T12:55:48",
+  "plate" : "9774 NHJ"
+}, {
+  "departureTime" : "2021-10-06T09:56:20",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-06T08:50:09",
+  "plate" : "6024 MAI"
+}, {
+  "departureTime" : "2021-07-14T20:05",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-14T18:50:42",
+  "plate" : "3055 SDO"
+}, {
+  "departureTime" : "2021-02-06T08:13:55",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-06T08:05:40",
+  "plate" : "4122 ZXK"
+}, {
+  "departureTime" : "2021-07-04T16:07:24",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-04T14:09:33",
+  "plate" : "5017 GRR"
+}, {
+  "departureTime" : "2021-05-07T09:42:40",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-05-07T08:25:57",
+  "plate" : "8466 ATO"
+}, {
+  "departureTime" : "2021-10-01T18:43:55",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-01T17:44:27",
+  "plate" : "2110 GJR"
+}, {
+  "departureTime" : "2021-11-28T16:12:11",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-28T14:57:40",
+  "plate" : "1865 CER"
+}, {
+  "departureTime" : "2021-07-15T10:18:24",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-15T08:25:58",
+  "plate" : "9144 XKF"
+}, {
+  "departureTime" : "2021-04-09T19:59:16",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-09T18:41:25",
+  "plate" : "5493 IAI"
+}, {
+  "departureTime" : "2021-08-15T19:33:15",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-15T18:12:25",
+  "plate" : "6920 RTH"
+}, {
+  "departureTime" : "2021-11-18T16:20:02",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-18T14:44:27",
+  "plate" : "4878 YOH"
+}, {
+  "departureTime" : "2021-07-03T08:50:42",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-03T07:33:02",
+  "plate" : "7206 PID"
+}, {
+  "departureTime" : "2021-08-03T16:42:21",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-03T16:32:44",
+  "plate" : "7013 ORH"
+}, {
+  "departureTime" : "2021-01-31T15:19:41",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-31T13:21:11",
+  "plate" : "4988 RET"
+}, {
+  "departureTime" : "2021-08-29T16:39:01",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-29T14:59:21",
+  "plate" : "6228 ZND"
+}, {
+  "departureTime" : "2021-02-11T20:19:32",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-11T18:51:44",
+  "plate" : "3830 RSB"
+}, {
+  "departureTime" : "2021-09-11T17:33:56",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-11T16:27:39",
+  "plate" : "3398 UBO"
+}, {
+  "departureTime" : "2021-07-27T09:59:09",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-27T09:32:05",
+  "plate" : "6436 TGP"
+}, {
+  "departureTime" : "2021-05-27T11:14:05",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-27T10:13:32",
+  "plate" : "2660 LEI"
+}, {
+  "departureTime" : "2021-07-16T11:04:07",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-16T09:51:02",
+  "plate" : "4981 TYG"
+}, {
+  "departureTime" : "2021-12-30T18:19:11",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-30T18:13:37",
+  "plate" : "8268 RSU"
+}, {
+  "departureTime" : "2021-04-07T20:00:40",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-07T18:10:53",
+  "plate" : "3043 UPM"
+}, {
+  "departureTime" : "2021-01-22T15:53:58",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-22T14:14:27",
+  "plate" : "3876 NHA"
+}, {
+  "departureTime" : "2021-04-29T12:12:03",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-29T10:51:56",
+  "plate" : "1849 TZI"
+}, {
+  "departureTime" : "2021-10-12T15:18:35",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-12T13:48:52",
+  "plate" : "0787 GHB"
+}, {
+  "departureTime" : "2021-08-30T14:30:14",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-30T14:15:55",
+  "plate" : "9192 COR"
+}, {
+  "departureTime" : "2021-06-23T09:55:54",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-23T09:09:11",
+  "plate" : "9412 QFD"
+}, {
+  "departureTime" : "2021-04-30T17:19:24",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-30T15:59:31",
+  "plate" : "4969 KPA"
+}, {
+  "departureTime" : "2021-07-26T09:36:33",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-26T09:23:01",
+  "plate" : "0034 NRG"
+}, {
+  "departureTime" : "2021-02-05T17:16:10",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-05T15:44:27",
+  "plate" : "0647 VPS"
+}, {
+  "departureTime" : "2021-04-04T18:47:14",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T18:34:01",
+  "plate" : "9635 ZYQ"
+}, {
+  "departureTime" : "2021-11-12T14:06:20",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-12T12:41:02",
+  "plate" : "1458 PZP"
+}, {
+  "departureTime" : "2021-05-26T09:16:21",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-26T08:55:18",
+  "plate" : "2791 ILK"
+}, {
+  "departureTime" : "2021-03-29T08:48:07",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-03-29T08:09:53",
+  "plate" : "5288 KKI"
+}, {
+  "departureTime" : "2021-08-28T12:23:19",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-28T10:55:17",
+  "plate" : "0743 YAF"
+}, {
+  "departureTime" : "2021-07-23T14:40:41",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-23T13:51:03",
+  "plate" : "4946 TPX"
+}, {
+  "departureTime" : "2021-12-15T15:52:46",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-15T14:37:10",
+  "plate" : "5376 WYL"
+}, {
+  "departureTime" : "2021-03-07T09:56:38",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-07T08:56:45",
+  "plate" : "2148 ZJG"
+}, {
+  "departureTime" : "2021-09-10T16:13:42",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-10T15:44:30",
+  "plate" : "8605 YCD"
+}, {
+  "departureTime" : "2021-09-16T10:30:51",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-16T09:17:25",
+  "plate" : "5538 PST"
+}, {
+  "departureTime" : "2021-09-19T13:59:41",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-19T13:16:19",
+  "plate" : "6581 CKO"
+}, {
+  "departureTime" : "2021-01-29T11:06:14",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-29T10:43:38",
+  "plate" : "7195 BHQ"
+}, {
+  "departureTime" : "2021-12-29T12:56:14",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-29T11:52:07",
+  "plate" : "3050 FJR"
+}, {
+  "departureTime" : "2021-06-26T09:05",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-26T08:42:31",
+  "plate" : "6203 TRF"
+}, {
+  "departureTime" : "2021-11-17T15:42:12",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-17T14:52:29",
+  "plate" : "8786 YRP"
+}, {
+  "departureTime" : "2021-11-20T08:56:48",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-20T08:25:01",
+  "plate" : "5561 COO"
+}, {
+  "departureTime" : "2021-08-08T19:09:36",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-08T17:24:35",
+  "plate" : "0985 FKZ"
+}, {
+  "departureTime" : "2021-04-28T13:32:10",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-28T12:49:04",
+  "plate" : "2930 DBA"
+}, {
+  "departureTime" : "2021-07-01T11:54:54",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-01T10:14:14",
+  "plate" : "4617 JFE"
+}, {
+  "departureTime" : "2021-10-04T13:07:52",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-04T12:20:30",
+  "plate" : "0817 MQU"
+}, {
+  "departureTime" : "2021-11-30T11:04:31",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-30T09:43:40",
+  "plate" : "5023 DRK"
+}, {
+  "departureTime" : "2021-06-12T13:35:54",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-12T13:18:52",
+  "plate" : "6098 NPC"
+}, {
+  "departureTime" : "2021-05-26T16:39:40",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-26T14:55:39",
+  "plate" : "0985 FKW"
+}, {
+  "departureTime" : "2021-09-03T10:23:40",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-03T09:37:56",
+  "plate" : "2258 SDL"
+}, {
+  "departureTime" : "2021-07-02T18:59:10",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-02T17:25:35",
+  "plate" : "8352 JFX"
+}, {
+  "departureTime" : "2021-01-16T11:36:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-16T10:42:15",
+  "plate" : "0464 OFY"
+}, {
+  "departureTime" : "2021-06-01T15:57:37",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-01T14:55:07",
+  "plate" : "9080 WPM"
+}, {
+  "departureTime" : "2021-07-05T10:45:51",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-05T09:19:39",
+  "plate" : "1898 TNW"
+}, {
+  "departureTime" : "2021-11-09T17:20",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-09T17:18:56",
+  "plate" : "2802 GYO"
+}, {
+  "departureTime" : "2021-10-19T17:34:26",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-19T16:19:57",
+  "plate" : "3081 TCD"
+}, {
+  "departureTime" : "2021-07-29T12:05:37",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-29T11:56:10",
+  "plate" : "6138 WPX"
+}, {
+  "departureTime" : "2021-12-12T11:59:18",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-12T11:40:42",
+  "plate" : "1279 LFL"
+}, {
+  "departureTime" : "2021-07-18T12:59:35",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-18T11:57:19",
+  "plate" : "5339 LTU"
+}, {
+  "departureTime" : "2021-04-07T15:11:25",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-07T13:16:37",
+  "plate" : "4516 BNJ"
+}, {
+  "departureTime" : "2021-12-20T15:45:20",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-20T13:46:12",
+  "plate" : "3593 EHL"
+}, {
+  "departureTime" : "2021-04-23T18:45:56",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-23T17:08:41",
+  "plate" : "9588 OFZ"
+}, {
+  "departureTime" : "2021-09-20T13:10:05",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-20T11:13:05",
+  "plate" : "4400 DBL"
+}, {
+  "departureTime" : "2021-07-09T09:30:51",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-09T08:01:12",
+  "plate" : "6376 YEH"
+}, {
+  "departureTime" : "2021-09-03T13:35:05",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-03T13:06:27",
+  "plate" : "6069 PFA"
+}, {
+  "departureTime" : "2021-04-06T14:15:02",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-06T12:31:31",
+  "plate" : "8142 CWC"
+}, {
+  "departureTime" : "2021-02-19T19:05:09",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-19T18:11:28",
+  "plate" : "0434 FSE"
+}, {
+  "departureTime" : "2021-05-17T15:01:14",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-17T14:55:04",
+  "plate" : "9162 XEW"
+}, {
+  "departureTime" : "2021-04-17T15:13:52",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-17T13:56:09",
+  "plate" : "8415 BGU"
+}, {
+  "departureTime" : "2021-05-29T14:22:06",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-29T13:48:50",
+  "plate" : "7083 NQB"
+}, {
+  "departureTime" : "2021-05-07T14:41:47",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-05-07T13:33:53",
+  "plate" : "0836 GPR"
+}, {
+  "departureTime" : "2021-05-01T14:47:53",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-01T13:16:02",
+  "plate" : "7339 WAZ"
+}, {
+  "departureTime" : "2021-07-14T11:57:50",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-14T10:51:22",
+  "plate" : "5587 URC"
+}, {
+  "departureTime" : "2021-03-25T10:19:28",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-25T09:06:31",
+  "plate" : "5987 NMQ"
+}, {
+  "departureTime" : "2021-09-10T19:56:39",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-10T17:57:45",
+  "plate" : "9691 FPS"
+}, {
+  "departureTime" : "2021-04-12T18:18:47",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-04-12T17:28:10",
+  "plate" : "6262 NIS"
+}, {
+  "departureTime" : "2021-01-05T12:54:25",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-05T10:57:40",
+  "plate" : "9955 GGG"
+}, {
+  "departureTime" : "2021-02-18T09:01:20",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-18T08:45:05",
+  "plate" : "1182 IOT"
+}, {
+  "departureTime" : "2021-10-28T12:02:03",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-28T11:31:44",
+  "plate" : "5933 YNN"
+}, {
+  "departureTime" : "2021-08-02T16:38:34",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-02T16:19:01",
+  "plate" : "0301 DJL"
+}, {
+  "departureTime" : "2021-11-17T09:51:54",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-17T09:30:24",
+  "plate" : "9256 KGN"
+}, {
+  "departureTime" : "2021-01-12T13:07:29",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-12T12:49:36",
+  "plate" : "1904 GZX"
+}, {
+  "departureTime" : "2021-12-08T11:59:23",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-08T10:57:31",
+  "plate" : "8842 CEF"
+}, {
+  "departureTime" : "2021-10-25T11:51:52",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-25T11:32:27",
+  "plate" : "1369 VKO"
+}, {
+  "departureTime" : "2021-10-26T15:37:04",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-26T15:02:14",
+  "plate" : "5207 FUM"
+}, {
+  "departureTime" : "2021-01-23T13:30:10",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-23T11:50:18",
+  "plate" : "0331 FIF"
+}, {
+  "departureTime" : "2021-02-02T19:22:02",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-02T17:51:44",
+  "plate" : "4265 UJH"
+}, {
+  "departureTime" : "2021-10-25T18:18:49",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-25T17:19:19",
+  "plate" : "5342 EQT"
+}, {
+  "departureTime" : "2021-10-30T12:39:07",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-30T11:53:57",
+  "plate" : "1967 QFD"
+}, {
+  "departureTime" : "2021-10-22T12:13:31",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-22T11:59:37",
+  "plate" : "5540 SEX"
+}, {
+  "departureTime" : "2021-05-27T19:12:14",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-27T18:12:22",
+  "plate" : "0749 PRB"
+}, {
+  "departureTime" : "2021-06-20T14:58:09",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-20T14:16:08",
+  "plate" : "6808 TLI"
+}, {
+  "departureTime" : "2021-09-09T13:39:09",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-09T12:34:32",
+  "plate" : "5995 GLD"
+}, {
+  "departureTime" : "2021-03-02T13:28:56",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-02T11:55:02",
+  "plate" : "0017 JMU"
+}, {
+  "departureTime" : "2021-09-17T09:52:44",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-17T08:13:20",
+  "plate" : "7780 VVH"
+}, {
+  "departureTime" : "2021-09-22T10:09:28",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-22T08:31:34",
+  "plate" : "2777 IBN"
+}, {
+  "departureTime" : "2021-01-07T15:56:46",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-01-07T15:39:27",
+  "plate" : "6410 SQW"
+}, {
+  "departureTime" : "2021-02-12T18:06:34",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-12T17:22:59",
+  "plate" : "4338 XXB"
+}, {
+  "departureTime" : "2021-06-11T19:21:29",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-11T17:49:33",
+  "plate" : "1562 IKN"
+}, {
+  "departureTime" : "2021-10-21T17:30:48",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-21T16:21:28",
+  "plate" : "3419 AFC"
+}, {
+  "departureTime" : "2021-02-14T19:45:17",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-02-14T17:58:52",
+  "plate" : "6728 UMD"
+}, {
+  "departureTime" : "2021-12-17T13:27:49",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-17T13:02:35",
+  "plate" : "4026 FUE"
+}, {
+  "departureTime" : "2021-04-04T19:29:50",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T18:39:20",
+  "plate" : "0929 DPE"
+}, {
+  "departureTime" : "2021-11-15T12:26:19",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-15T11:19:59",
+  "plate" : "1426 OHP"
+}, {
+  "departureTime" : "2021-05-10T14:56:49",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-10T13:29:22",
+  "plate" : "7647 GDT"
+}, {
+  "departureTime" : "2021-04-18T14:52:25",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-18T13:20:44",
+  "plate" : "8985 ESZ"
+}, {
+  "departureTime" : "2021-02-24T19:30:15",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-02-24T17:39:23",
+  "plate" : "8932 LTB"
+}, {
+  "departureTime" : "2021-11-17T15:32:24",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-17T14:37:19",
+  "plate" : "7525 MZD"
+}, {
+  "departureTime" : "2021-08-06T17:03:28",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-06T15:46:05",
+  "plate" : "2035 WSU"
+}, {
+  "departureTime" : "2021-08-16T13:19:03",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-16T11:37:48",
+  "plate" : "1705 WFA"
+}, {
+  "departureTime" : "2021-08-08T19:59:03",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-08T18:07:04",
+  "plate" : "5522 OBA"
+}, {
+  "departureTime" : "2021-01-29T08:56:04",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-29T08:31:54",
+  "plate" : "3220 XWH"
+}, {
+  "departureTime" : "2021-11-24T16:33:58",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-24T14:39:12",
+  "plate" : "4615 NOB"
+}, {
+  "departureTime" : "2021-01-10T11:20:27",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-10T10:28:14",
+  "plate" : "0317 JYE"
+}, {
+  "departureTime" : "2021-11-20T18:47:45",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-20T18:46:43",
+  "plate" : "7035 SOL"
+}, {
+  "departureTime" : "2021-01-13T10:14:50",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-13T09:00:58",
+  "plate" : "1872 GJU"
+}, {
+  "departureTime" : "2021-04-16T12:05:25",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-16T10:30:50",
+  "plate" : "3816 MAY"
+}, {
+  "departureTime" : "2021-05-03T12:51:07",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-03T11:27:12",
+  "plate" : "1075 LZP"
+}, {
+  "departureTime" : "2021-07-11T11:56:46",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-11T10:40:53",
+  "plate" : "3774 YQV"
+}, {
+  "departureTime" : "2021-10-16T14:08:09",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-16T13:55:14",
+  "plate" : "5891 KQJ"
+}, {
+  "departureTime" : "2021-03-27T12:47:55",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-03-27T11:37:59",
+  "plate" : "9598 MVO"
+}, {
+  "departureTime" : "2021-06-04T18:28:37",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-04T17:47:53",
+  "plate" : "3527 UCN"
+}, {
+  "departureTime" : "2021-12-10T13:50:04",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-10T13:17:13",
+  "plate" : "8120 VWS"
+}, {
+  "departureTime" : "2021-09-16T12:48:27",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-16T11:22:26",
+  "plate" : "5881 KKM"
+}, {
+  "departureTime" : "2021-03-02T15:32:34",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-02T15:03:07",
+  "plate" : "9389 CFF"
+}, {
+  "departureTime" : "2021-12-20T18:29:58",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-20T16:44:12",
+  "plate" : "7126 LNU"
+}, {
+  "departureTime" : "2021-10-05T12:49:39",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-05T12:16:21",
+  "plate" : "9962 SWZ"
+}, {
+  "departureTime" : "2021-12-09T10:32:22",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-09T09:29:06",
+  "plate" : "4691 OSI"
+}, {
+  "departureTime" : "2021-07-30T11:34:22",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-30T10:14:57",
+  "plate" : "0296 URP"
+}, {
+  "departureTime" : "2021-02-23T17:26:35",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-23T16:20:39",
+  "plate" : "4967 AVE"
+}, {
+  "departureTime" : "2021-07-08T10:40:20",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-08T10:17:29",
+  "plate" : "0203 NTL"
+}, {
+  "departureTime" : "2021-04-03T14:38:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-03T12:45:59",
+  "plate" : "0683 JLF"
+}, {
+  "departureTime" : "2021-05-12T16:02:32",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-12T15:11:59",
+  "plate" : "3031 HSF"
+}, {
+  "departureTime" : "2021-12-12T10:27:49",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-12T08:38:42",
+  "plate" : "6128 MPZ"
+}, {
+  "departureTime" : "2021-07-20T09:55:36",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T08:05:19",
+  "plate" : "9187 YPF"
+}, {
+  "departureTime" : "2021-08-20T16:11:06",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-20T15:30:44",
+  "plate" : "3681 QTG"
+}, {
+  "departureTime" : "2021-09-12T17:03:06",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-12T16:54:21",
+  "plate" : "8715 YVD"
+}, {
+  "departureTime" : "2021-11-05T20:38:31",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-05T18:52:17",
+  "plate" : "1810 KIK"
+}, {
+  "departureTime" : "2021-07-07T16:16:14",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-07T16:15:10",
+  "plate" : "0781 KZN"
+}, {
+  "departureTime" : "2021-03-26T13:31:01",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-03-26T13:17:52",
+  "plate" : "0237 CZX"
+}, {
+  "departureTime" : "2021-02-10T16:45:38",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-02-10T16:32:45",
+  "plate" : "7745 SVP"
+}, {
+  "departureTime" : "2021-06-05T09:44:36",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-05T09:39:56",
+  "plate" : "8619 RWC"
+}, {
+  "departureTime" : "2021-12-17T17:40:42",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-17T15:53:13",
+  "plate" : "1459 AXN"
+}, {
+  "departureTime" : "2021-03-14T15:22:45",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-14T13:23:44",
+  "plate" : "9386 VXP"
+}, {
+  "departureTime" : "2021-10-28T15:49:24",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-28T15:43:16",
+  "plate" : "9807 TJD"
+}, {
+  "departureTime" : "2021-10-30T13:33:36",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-30T11:53:10",
+  "plate" : "1380 BFR"
+}, {
+  "departureTime" : "2021-06-10T20:07:29",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-06-10T18:33",
+  "plate" : "2112 SSV"
+}, {
+  "departureTime" : "2021-10-16T17:45:40",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-16T16:27:30",
+  "plate" : "4311 ADS"
+}, {
+  "departureTime" : "2021-09-09T14:24:29",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-09T14:17:18",
+  "plate" : "6019 OOM"
+}, {
+  "departureTime" : "2021-10-09T11:58",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-09T10:40:25",
+  "plate" : "3453 HYX"
+}, {
+  "departureTime" : "2021-10-19T15:09:09",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-19T14:34:39",
+  "plate" : "8859 MQF"
+}, {
+  "departureTime" : "2021-12-19T09:41:07",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-19T09:34:55",
+  "plate" : "0773 VDY"
+}, {
+  "departureTime" : "2021-08-29T20:34:26",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-29T19:09:07",
+  "plate" : "3344 CMA"
+}, {
+  "departureTime" : "2021-07-28T13:06:38",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-28T12:37:56",
+  "plate" : "7370 DSF"
+}, {
+  "departureTime" : "2021-10-12T20:07:42",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-12T18:13:16",
+  "plate" : "5646 USO"
+}, {
+  "departureTime" : "2021-02-20T19:40:46",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-20T18:45:11",
+  "plate" : "9994 YFK"
+}, {
+  "departureTime" : "2021-07-16T09:20:25",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-16T07:34:17",
+  "plate" : "7114 DJU"
+}, {
+  "departureTime" : "2021-12-23T20:24:26",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-23T18:58:07",
+  "plate" : "9061 PAO"
+}, {
+  "departureTime" : "2021-04-14T10:22:38",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-14T08:52:04",
+  "plate" : "1031 QIG"
+}, {
+  "departureTime" : "2021-10-27T19:01:20",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-27T18:37:18",
+  "plate" : "4285 WAC"
+}, {
+  "departureTime" : "2021-04-23T14:18:50",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-23T13:47:42",
+  "plate" : "3937 BFD"
+}, {
+  "departureTime" : "2021-09-05T09:21:26",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-05T08:35:57",
+  "plate" : "6087 PCE"
+}, {
+  "departureTime" : "2021-03-31T14:28:01",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-31T13:49:41",
+  "plate" : "2252 AKM"
+}, {
+  "departureTime" : "2021-04-12T14:44:36",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-04-12T13:01:17",
+  "plate" : "0972 CVD"
+}, {
+  "departureTime" : "2021-10-01T09:34:07",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-01T08:51:56",
+  "plate" : "0264 QAO"
+}, {
+  "departureTime" : "2021-02-01T16:43:20",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-01T15:39:46",
+  "plate" : "3878 JTM"
+}, {
+  "departureTime" : "2021-10-11T14:43:31",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-11T13:24:27",
+  "plate" : "1441 FFV"
+}, {
+  "departureTime" : "2021-10-16T19:01:17",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-16T18:39:46",
+  "plate" : "5913 ATJ"
+}, {
+  "departureTime" : "2021-03-28T16:03:12",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-28T14:55:31",
+  "plate" : "0604 BTG"
+}, {
+  "departureTime" : "2021-03-30T19:26:54",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-30T19:18:10",
+  "plate" : "0208 IKS"
+}, {
+  "departureTime" : "2021-08-18T17:31:18",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-08-18T16:36:48",
+  "plate" : "1025 PGC"
+}, {
+  "departureTime" : "2021-09-09T12:29:07",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-09T10:37:41",
+  "plate" : "2882 YTR"
+}, {
+  "departureTime" : "2021-07-14T16:04:59",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-14T15:45:44",
+  "plate" : "8611 QRY"
+}, {
+  "departureTime" : "2021-03-05T15:26:27",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-03-05T15:02:16",
+  "plate" : "3511 CLA"
+}, {
+  "departureTime" : "2021-10-23T10:54:06",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-23T10:29:14",
+  "plate" : "7194 VGJ"
+}, {
+  "departureTime" : "2021-12-18T16:14:45",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-18T15:21:31",
+  "plate" : "4121 FZD"
+}, {
+  "departureTime" : "2021-12-10T18:44:06",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-10T18:22:05",
+  "plate" : "0930 DYH"
+}, {
+  "departureTime" : "2021-06-09T14:05:32",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-09T13:08:17",
+  "plate" : "1229 VIN"
+}, {
+  "departureTime" : "2021-11-12T08:01:16",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-12T07:52:30",
+  "plate" : "4625 LCS"
+}, {
+  "departureTime" : "2021-06-25T10:35:50",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-25T08:37:49",
+  "plate" : "8176 CZT"
+}, {
+  "departureTime" : "2021-09-25T16:27:29",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-25T16:07:52",
+  "plate" : "4887 LUP"
+}, {
+  "departureTime" : "2021-10-22T14:00:02",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-22T13:34:33",
+  "plate" : "9655 NSM"
+}, {
+  "departureTime" : "2021-06-21T10:56:23",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-21T10:02:12",
+  "plate" : "2038 JKV"
+}, {
+  "departureTime" : "2021-04-22T20:25:10",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-22T19:36:11",
+  "plate" : "4099 UQH"
+}, {
+  "departureTime" : "2021-08-12T12:20:05",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-08-12T10:27:51",
+  "plate" : "3865 RJK"
+}, {
+  "departureTime" : "2021-12-03T14:21:13",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-03T13:03:02",
+  "plate" : "4603 TTT"
+}, {
+  "departureTime" : "2021-10-13T09:37:05",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-13T08:54:13",
+  "plate" : "2636 GWQ"
+}, {
+  "departureTime" : "2021-08-18T18:00:25",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-08-18T17:22:48",
+  "plate" : "5389 OOW"
+}, {
+  "departureTime" : "2021-11-20T08:21:40",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-20T07:09:20",
+  "plate" : "1710 NJU"
+}, {
+  "departureTime" : "2021-08-14T11:32:17",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-14T10:44:20",
+  "plate" : "9051 HIV"
+}, {
+  "departureTime" : "2021-04-22T11:19:39",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-22T11:08:28",
+  "plate" : "5818 FIL"
+}, {
+  "departureTime" : "2021-11-18T10:27:43",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-18T09:50:51",
+  "plate" : "7744 MZY"
+}, {
+  "departureTime" : "2021-01-04T12:01:49",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-01-04T11:27:34",
+  "plate" : "7288 YEZ"
+}, {
+  "departureTime" : "2021-03-19T16:49:57",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-03-19T15:39:38",
+  "plate" : "8177 FJI"
+}, {
+  "departureTime" : "2021-03-06T18:40:25",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-03-06T18:21:43",
+  "plate" : "9009 SSN"
+}, {
+  "departureTime" : "2021-12-11T14:51:02",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-11T14:21:41",
+  "plate" : "9933 UIL"
+}, {
+  "departureTime" : "2021-12-19T13:44:37",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-19T11:48:39",
+  "plate" : "1404 UKI"
+}, {
+  "departureTime" : "2021-04-18T14:01:47",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-18T12:58:08",
+  "plate" : "1276 VHQ"
+}, {
+  "departureTime" : "2021-07-11T10:21:30",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-11T08:30:45",
+  "plate" : "9870 USH"
+}, {
+  "departureTime" : "2021-04-28T14:38:15",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-28T13:37:47",
+  "plate" : "9137 PEY"
+}, {
+  "departureTime" : "2021-05-02T15:21:57",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-02T13:34:20",
+  "plate" : "6206 RML"
+}, {
+  "departureTime" : "2021-06-19T18:21:59",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-19T18:15:14",
+  "plate" : "6412 KEG"
+}, {
+  "departureTime" : "2021-07-23T12:59:54",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-23T12:54:33",
+  "plate" : "9290 SYE"
+}, {
+  "departureTime" : "2021-04-11T08:45:54",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-11T07:26:17",
+  "plate" : "0274 WDW"
+}, {
+  "departureTime" : "2021-02-09T19:15:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-09T17:51:15",
+  "plate" : "8410 EKT"
+}, {
+  "departureTime" : "2021-04-16T10:54:43",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-16T09:31:29",
+  "plate" : "6742 QPX"
+}, {
+  "departureTime" : "2021-11-12T13:23:54",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-12T12:21:26",
+  "plate" : "1051 LPI"
+}, {
+  "departureTime" : "2021-12-04T16:44:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-04T15:10:29",
+  "plate" : "7027 DTM"
+}, {
+  "departureTime" : "2021-07-12T11:01:38",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-12T09:26:19",
+  "plate" : "4048 SUF"
+}, {
+  "departureTime" : "2021-03-04T16:56:49",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-04T15:43:11",
+  "plate" : "4559 YQA"
+}, {
+  "departureTime" : "2021-12-17T10:42:23",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-17T09:36:34",
+  "plate" : "6151 OFD"
+}, {
+  "departureTime" : "2021-11-19T12:23:04",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-19T11:03:19",
+  "plate" : "4531 DFQ"
+}, {
+  "departureTime" : "2021-08-21T13:19:16",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-21T12:16:38",
+  "plate" : "9978 SWB"
+}, {
+  "departureTime" : "2021-12-23T15:28:56",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-23T14:38:35",
+  "plate" : "8523 RMY"
+}, {
+  "departureTime" : "2021-11-16T19:48:21",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-16T18:29:57",
+  "plate" : "5948 YPD"
+}, {
+  "departureTime" : "2021-02-04T16:10:18",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-04T15:15:44",
+  "plate" : "6511 HUT"
+}, {
+  "departureTime" : "2021-11-13T14:11:56",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-13T12:14:51",
+  "plate" : "7717 TJN"
+}, {
+  "departureTime" : "2021-03-24T19:35:15",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-24T19:07:27",
+  "plate" : "9979 GRM"
+}, {
+  "departureTime" : "2021-06-01T12:50:12",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-01T11:17:07",
+  "plate" : "4149 SQV"
+}, {
+  "departureTime" : "2021-09-22T18:53:52",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-22T17:24:02",
+  "plate" : "0565 FJS"
+}, {
+  "departureTime" : "2021-12-12T16:15:27",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-12T15:55:16",
+  "plate" : "1093 FFI"
+}, {
+  "departureTime" : "2021-05-03T17:16:43",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-03T17:05:30",
+  "plate" : "0588 YOM"
+}, {
+  "departureTime" : "2021-08-25T19:13:47",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-08-25T17:21:32",
+  "plate" : "6600 ZBT"
+}, {
+  "departureTime" : "2021-06-20T20:04:09",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-20T18:51:42",
+  "plate" : "0770 GLN"
+}, {
+  "departureTime" : "2021-07-20T09:36:59",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T09:07",
+  "plate" : "9148 EHY"
+}, {
+  "departureTime" : "2021-01-01T10:32",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-01T08:50:15",
+  "plate" : "5780 IEM"
+}, {
+  "departureTime" : "2021-11-12T11:33:22",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-12T09:42:46",
+  "plate" : "4203 ZVI"
+}, {
+  "departureTime" : "2021-06-02T19:36:56",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-02T18:41:34",
+  "plate" : "9354 HGH"
+}, {
+  "departureTime" : "2021-03-21T07:12:52",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-21T07:06:51",
+  "plate" : "4469 VWU"
+}, {
+  "departureTime" : "2021-06-19T09:03:57",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-19T08:42:02",
+  "plate" : "3343 KZO"
+}, {
+  "departureTime" : "2021-07-19T15:18:10",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-19T13:25:45",
+  "plate" : "1721 PKU"
+}, {
+  "departureTime" : "2021-04-23T15:39:44",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-23T15:11:02",
+  "plate" : "9043 BHW"
+}, {
+  "departureTime" : "2021-09-25T19:08:05",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-25T17:46:26",
+  "plate" : "7965 ZFU"
+}, {
+  "departureTime" : "2021-04-08T18:34:28",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-08T17:30:39",
+  "plate" : "2269 CBH"
+}, {
+  "departureTime" : "2021-09-01T15:33:23",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-01T15:12:03",
+  "plate" : "8131 RRH"
+}, {
+  "departureTime" : "2021-06-03T11:37:19",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-06-03T11:25:23",
+  "plate" : "6244 NWL"
+}, {
+  "departureTime" : "2021-01-19T10:55:54",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-19T09:05:40",
+  "plate" : "5548 DOQ"
+}, {
+  "departureTime" : "2021-10-31T09:51:20",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-31T09:28",
+  "plate" : "5141 GAD"
+}, {
+  "departureTime" : "2021-11-05T14:06:43",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-05T13:28:12",
+  "plate" : "4537 XSQ"
+}, {
+  "departureTime" : "2021-06-21T19:46:24",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-21T18:51:06",
+  "plate" : "1022 MMI"
+}, {
+  "departureTime" : "2021-03-14T11:09:18",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-14T10:46:15",
+  "plate" : "2974 XIH"
+}, {
+  "departureTime" : "2021-02-18T13:05:51",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-18T11:20:49",
+  "plate" : "0660 XLM"
+}, {
+  "departureTime" : "2021-08-25T16:10:16",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-08-25T15:12:08",
+  "plate" : "9089 EOZ"
+}, {
+  "departureTime" : "2021-07-25T14:50:13",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-25T13:48:09",
+  "plate" : "7833 XGT"
+}, {
+  "departureTime" : "2021-06-15T20:12:18",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-15T19:03:32",
+  "plate" : "0535 SBK"
+}, {
+  "departureTime" : "2021-03-07T15:49:39",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-07T14:22:40",
+  "plate" : "0594 KRX"
+}, {
+  "departureTime" : "2021-04-04T17:13:41",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T15:38:32",
+  "plate" : "2920 HEG"
+}, {
+  "departureTime" : "2021-04-17T10:12:45",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-17T09:01:58",
+  "plate" : "7189 JNE"
+}, {
+  "departureTime" : "2021-09-04T17:05:55",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-04T17:00:48",
+  "plate" : "7995 TUS"
+}, {
+  "departureTime" : "2021-04-13T14:49:58",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-13T13:10:46",
+  "plate" : "4841 WOS"
+}, {
+  "departureTime" : "2021-01-26T20:20:24",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-26T19:49:45",
+  "plate" : "2014 SBS"
+}, {
+  "departureTime" : "2021-07-15T13:27:36",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-15T11:54:07",
+  "plate" : "1360 COZ"
+}, {
+  "departureTime" : "2021-01-23T14:41:56",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-23T13:45:58",
+  "plate" : "1108 SKG"
+}, {
+  "departureTime" : "2021-04-21T09:04:59",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-21T08:28:20",
+  "plate" : "0585 TRP"
+}, {
+  "departureTime" : "2021-01-29T09:09:57",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-29T08:39:54",
+  "plate" : "1572 YCC"
+}, {
+  "departureTime" : "2021-08-31T16:31:40",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-31T14:32:37",
+  "plate" : "7012 AAC"
+}, {
+  "departureTime" : "2021-01-14T19:16:35",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-01-14T17:32:22",
+  "plate" : "9294 JZQ"
+}, {
+  "departureTime" : "2021-08-17T13:12:15",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-17T11:24:27",
+  "plate" : "9675 VFM"
+}, {
+  "departureTime" : "2021-04-28T09:22:03",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-28T09:14:22",
+  "plate" : "1953 TUG"
+}, {
+  "departureTime" : "2021-12-25T13:02:48",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-25T12:05:33",
+  "plate" : "6947 ACM"
+}, {
+  "departureTime" : "2021-06-10T17:16:48",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-06-10T15:17:21",
+  "plate" : "0156 WIQ"
+}, {
+  "departureTime" : "2021-07-26T19:13:50",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-26T18:07:41",
+  "plate" : "3326 HER"
+}, {
+  "departureTime" : "2021-06-18T12:15:31",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-18T10:54:24",
+  "plate" : "5509 TCW"
+}, {
+  "departureTime" : "2021-11-03T11:40:44",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-03T09:54:49",
+  "plate" : "2006 LMP"
+}, {
+  "departureTime" : "2021-01-29T18:19:19",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-29T18:06:49",
+  "plate" : "0690 THJ"
+}, {
+  "departureTime" : "2021-11-01T16:32:04",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-01T16:12:39",
+  "plate" : "4592 KUM"
+}, {
+  "departureTime" : "2021-08-04T15:40:06",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-08-04T15:22:12",
+  "plate" : "1747 XRL"
+}, {
+  "departureTime" : "2021-08-14T17:32:47",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-14T16:34:56",
+  "plate" : "0567 RDO"
+}, {
+  "departureTime" : "2021-07-28T16:33:23",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-28T16:16:54",
+  "plate" : "2911 LBL"
+}, {
+  "departureTime" : "2021-04-25T08:38:16",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-25T07:34:42",
+  "plate" : "3310 OQL"
+}, {
+  "departureTime" : "2021-08-12T16:36:01",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-08-12T14:39:24",
+  "plate" : "7900 CQL"
+}, {
+  "departureTime" : "2021-11-08T20:19:56",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-08T18:33:13",
+  "plate" : "4106 TFI"
+}, {
+  "departureTime" : "2021-08-30T09:08:16",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-30T08:33:23",
+  "plate" : "8099 OLL"
+}, {
+  "departureTime" : "2021-12-30T18:25:46",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-30T17:15:07",
+  "plate" : "2185 GVL"
+}, {
+  "departureTime" : "2021-09-25T09:14:08",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-25T08:27:49",
+  "plate" : "2701 CSR"
+}, {
+  "departureTime" : "2021-01-26T14:34:43",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-26T13:23:53",
+  "plate" : "9092 KMO"
+}, {
+  "departureTime" : "2021-08-09T18:51:50",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-09T18:02:53",
+  "plate" : "9033 ARR"
+}, {
+  "departureTime" : "2021-12-30T17:44:40",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-30T16:37:51",
+  "plate" : "0775 HCS"
+}, {
+  "departureTime" : "2021-08-29T15:28:48",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-29T14:17:27",
+  "plate" : "9495 NML"
+}, {
+  "departureTime" : "2021-11-21T20:02:05",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-21T18:53:36",
+  "plate" : "7922 RVQ"
+}, {
+  "departureTime" : "2021-12-17T14:22:41",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-17T12:44:51",
+  "plate" : "6157 LRU"
+}, {
+  "departureTime" : "2021-08-11T19:31:55",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-08-11T17:50:37",
+  "plate" : "6128 AMC"
+}, {
+  "departureTime" : "2021-05-27T09:38:52",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-27T08:29:57",
+  "plate" : "4845 XAB"
+}, {
+  "departureTime" : "2021-03-17T15:55:01",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-17T15:39:31",
+  "plate" : "0643 TNP"
+}, {
+  "departureTime" : "2021-03-16T18:50:52",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-16T18:40:28",
+  "plate" : "1429 PIU"
+}, {
+  "departureTime" : "2021-11-15T08:50:16",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-15T08:41:48",
+  "plate" : "7267 AXL"
+}, {
+  "departureTime" : "2021-04-05T15:31:40",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-04-05T14:44:05",
+  "plate" : "6176 HBF"
+}, {
+  "departureTime" : "2021-05-23T09:24:53",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-23T09:18:36",
+  "plate" : "4897 DXL"
+}, {
+  "departureTime" : "2021-12-16T19:13:46",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-16T17:15:09",
+  "plate" : "7978 HDG"
+}, {
+  "departureTime" : "2021-09-17T18:56:50",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-17T17:41:43",
+  "plate" : "0755 QRH"
+}, {
+  "departureTime" : "2021-09-29T11:33:09",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-29T11:10:47",
+  "plate" : "8100 DJB"
+}, {
+  "departureTime" : "2021-01-03T18:32:43",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-03T16:46:10",
+  "plate" : "9893 NCQ"
+}, {
+  "departureTime" : "2021-08-13T16:02:09",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-13T14:22:17",
+  "plate" : "9472 DUR"
+}, {
+  "departureTime" : "2021-07-19T17:01:16",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-19T15:42:37",
+  "plate" : "0965 VWB"
+}, {
+  "departureTime" : "2021-12-02T14:05:04",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-02T12:53:47",
+  "plate" : "5625 WFF"
+}, {
+  "departureTime" : "2021-03-02T18:34:59",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-02T17:18:17",
+  "plate" : "4128 ZYO"
+}, {
+  "departureTime" : "2021-11-23T12:52:40",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-23T12:27:19",
+  "plate" : "8458 BYT"
+}, {
+  "departureTime" : "2021-08-27T15:37:09",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-27T14:06:36",
+  "plate" : "2755 QZP"
+}, {
+  "departureTime" : "2021-04-21T17:05:03",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-21T15:35:27",
+  "plate" : "7370 WCW"
+}, {
+  "departureTime" : "2021-05-18T12:21:38",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-18T10:32:50",
+  "plate" : "1525 ZTF"
+}, {
+  "departureTime" : "2021-10-31T08:57:39",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-31T08:40:19",
+  "plate" : "4502 YRK"
+}, {
+  "departureTime" : "2021-11-15T13:42:19",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-15T12:31:34",
+  "plate" : "8777 ACB"
+}, {
+  "departureTime" : "2021-04-24T18:51:13",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-24T17:23:41",
+  "plate" : "4899 NJH"
+}, {
+  "departureTime" : "2021-10-06T12:46:17",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-06T12:01:02",
+  "plate" : "1102 OMI"
+}, {
+  "departureTime" : "2021-09-17T10:48:22",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-17T09:20:53",
+  "plate" : "4540 UAC"
+}, {
+  "departureTime" : "2021-11-26T15:37:36",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-26T15:35:23",
+  "plate" : "8952 VVZ"
+}, {
+  "departureTime" : "2021-11-17T15:45:27",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-17T15:40:59",
+  "plate" : "4345 QRD"
+}, {
+  "departureTime" : "2021-09-29T11:35:40",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-29T11:02:31",
+  "plate" : "8010 NHR"
+}, {
+  "departureTime" : "2021-04-03T09:43:02",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-03T08:02:59",
+  "plate" : "0492 PMH"
+}, {
+  "departureTime" : "2021-01-01T12:36:21",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-01T12:32:20",
+  "plate" : "3342 EJN"
+}, {
+  "departureTime" : "2021-08-26T15:43:40",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-08-26T14:05:48",
+  "plate" : "9818 SAZ"
+}, {
+  "departureTime" : "2021-12-02T07:39",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-02T07:06:59",
+  "plate" : "6734 VIR"
+}, {
+  "departureTime" : "2021-01-29T17:46:40",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-29T16:35:33",
+  "plate" : "7923 JTN"
+}, {
+  "departureTime" : "2021-07-18T19:45:12",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-18T17:48:05",
+  "plate" : "6031 OHE"
+}, {
+  "departureTime" : "2021-03-01T11:13:58",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-03-01T11:02:16",
+  "plate" : "3430 VRC"
+}, {
+  "departureTime" : "2021-01-05T15:31:58",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-05T13:53:28",
+  "plate" : "2283 UQD"
+}, {
+  "departureTime" : "2021-03-31T11:34:24",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-31T11:16:58",
+  "plate" : "0696 XSE"
+}, {
+  "departureTime" : "2021-09-28T13:29:52",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-28T13:03:19",
+  "plate" : "2395 TDY"
+}, {
+  "departureTime" : "2021-10-17T16:04:38",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-17T15:18:03",
+  "plate" : "1014 FHS"
+}, {
+  "departureTime" : "2021-08-29T13:48:21",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-29T12:21:36",
+  "plate" : "8494 FSZ"
+}, {
+  "departureTime" : "2021-12-31T17:19:37",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-31T15:32:58",
+  "plate" : "0159 ODV"
+}, {
+  "departureTime" : "2021-04-04T12:42:55",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T11:53:45",
+  "plate" : "8422 FAI"
+}, {
+  "departureTime" : "2021-12-07T11:41:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-12-07T10:24:26",
+  "plate" : "3969 WUR"
+}, {
+  "departureTime" : "2021-07-05T15:47:29",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-05T13:51:34",
+  "plate" : "7280 VFB"
+}, {
+  "departureTime" : "2021-08-11T21:03:54",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-08-11T19:05:56",
+  "plate" : "7856 DTF"
+}, {
+  "departureTime" : "2021-08-27T10:36:18",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-27T10:15:42",
+  "plate" : "5278 ANO"
+}, {
+  "departureTime" : "2021-06-29T20:51:04",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-29T18:55:09",
+  "plate" : "2619 IPX"
+}, {
+  "departureTime" : "2021-05-17T11:11:09",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-17T10:34:35",
+  "plate" : "5099 GON"
+}, {
+  "departureTime" : "2021-07-08T20:27:33",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-08T18:53:45",
+  "plate" : "0159 GKZ"
+}, {
+  "departureTime" : "2021-10-02T16:42:49",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-02T15:21:17",
+  "plate" : "2108 KOA"
+}, {
+  "departureTime" : "2021-10-15T18:11:23",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-15T17:35:44",
+  "plate" : "9855 YYZ"
+}, {
+  "departureTime" : "2021-02-12T13:38:28",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-12T13:09:14",
+  "plate" : "0645 MRY"
+}, {
+  "departureTime" : "2021-01-29T19:20:18",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-29T17:34:52",
+  "plate" : "9469 FRV"
+}, {
+  "departureTime" : "2021-08-07T16:35:20",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-07T15:44:57",
+  "plate" : "8025 KXQ"
+}, {
+  "departureTime" : "2021-12-04T09:11:16",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-04T08:56:13",
+  "plate" : "1978 KUH"
+}, {
+  "departureTime" : "2021-02-22T08:49:28",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-22T08:06:40",
+  "plate" : "5110 OKV"
+}, {
+  "departureTime" : "2021-09-28T10:27:14",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-28T10:18:30",
+  "plate" : "8245 TEX"
+}, {
+  "departureTime" : "2021-02-28T18:42:24",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-02-28T16:46:56",
+  "plate" : "4079 QYZ"
+}, {
+  "departureTime" : "2021-02-01T09:06:50",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-01T08:12:59",
+  "plate" : "1394 UQO"
+}, {
+  "departureTime" : "2021-11-19T19:21:05",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-19T17:39",
+  "plate" : "3253 URY"
+}, {
+  "departureTime" : "2021-10-17T09:13:20",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-17T08:39:59",
+  "plate" : "1645 BIR"
+}, {
+  "departureTime" : "2021-11-24T20:27:49",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-24T18:29:09",
+  "plate" : "4456 ERB"
+}, {
+  "departureTime" : "2021-07-17T09:10:08",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-17T08:25:50",
+  "plate" : "5819 RKI"
+}, {
+  "departureTime" : "2021-06-30T15:54:08",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-30T15:07:50",
+  "plate" : "5827 FSV"
+}, {
+  "departureTime" : "2021-10-11T19:59:42",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-11T18:53:53",
+  "plate" : "5682 BCH"
+}, {
+  "departureTime" : "2021-07-20T16:10:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T14:34:13",
+  "plate" : "7337 IHK"
+}, {
+  "departureTime" : "2021-04-24T15:32:44",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-24T15:02:52",
+  "plate" : "8092 NXA"
+}, {
+  "departureTime" : "2021-12-04T11:44:27",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-04T10:17:44",
+  "plate" : "0317 UST"
+}, {
+  "departureTime" : "2021-10-13T20:46:43",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-13T19:42:48",
+  "plate" : "9457 IGL"
+}, {
+  "departureTime" : "2021-09-21T15:02:56",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-21T13:12:03",
+  "plate" : "1919 CQS"
+}, {
+  "departureTime" : "2021-07-17T13:31:18",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-17T11:33:48",
+  "plate" : "5957 MSX"
+}, {
+  "departureTime" : "2021-12-06T09:36:32",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-06T09:03:58",
+  "plate" : "5134 LBO"
+}, {
+  "departureTime" : "2021-10-11T16:01:11",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-11T15:09:56",
+  "plate" : "2306 HMN"
+}, {
+  "departureTime" : "2021-03-16T18:34:18",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-16T18:20:42",
+  "plate" : "4672 DJK"
+}, {
+  "departureTime" : "2021-08-03T11:56:21",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-03T11:38:40",
+  "plate" : "8273 YWG"
+}, {
+  "departureTime" : "2021-09-11T15:22:37",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-11T13:41:56",
+  "plate" : "6954 RAQ"
+}, {
+  "departureTime" : "2021-08-07T19:10:28",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-07T17:53:22",
+  "plate" : "5942 NWB"
+}, {
+  "departureTime" : "2021-09-03T13:41:59",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-03T12:35:24",
+  "plate" : "7341 SEJ"
+}, {
+  "departureTime" : "2021-05-25T10:24:41",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-25T08:57:56",
+  "plate" : "1019 ARS"
+}, {
+  "departureTime" : "2021-06-14T13:19:22",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-14T12:40:31",
+  "plate" : "0823 XNL"
+}, {
+  "departureTime" : "2021-12-21T16:39:25",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-12-21T15:33:09",
+  "plate" : "9293 SWK"
+}, {
+  "departureTime" : "2021-05-22T10:34:23",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-22T09:28:41",
+  "plate" : "6261 DUJ"
+}, {
+  "departureTime" : "2021-09-06T16:45:49",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-06T16:22:48",
+  "plate" : "8756 GJD"
+}, {
+  "departureTime" : "2021-10-03T14:46:18",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-03T12:57:02",
+  "plate" : "1662 RNU"
+}, {
+  "departureTime" : "2021-05-04T10:29:04",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-04T09:36:38",
+  "plate" : "4086 CNC"
+}, {
+  "departureTime" : "2021-04-10T17:30:30",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-10T16:16:45",
+  "plate" : "5198 ONY"
+}, {
+  "departureTime" : "2021-01-02T13:47:10",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-02T12:34:47",
+  "plate" : "3076 CQZ"
+}, {
+  "departureTime" : "2021-07-30T16:42:52",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-30T16:06:56",
+  "plate" : "7472 GPZ"
+}, {
+  "departureTime" : "2021-07-24T17:53:36",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-24T17:26:09",
+  "plate" : "4611 MPI"
+}, {
+  "departureTime" : "2021-08-07T15:31:04",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-07T13:54:44",
+  "plate" : "6892 QYK"
+}, {
+  "departureTime" : "2021-04-28T08:49:51",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-28T08:25:26",
+  "plate" : "5268 FWE"
+}, {
+  "departureTime" : "2021-09-28T17:01:23",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-28T15:32:49",
+  "plate" : "4290 TTG"
+}, {
+  "departureTime" : "2021-07-04T11:24:21",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-04T09:31:01",
+  "plate" : "0162 TRY"
+}, {
+  "departureTime" : "2021-04-11T12:51:02",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-11T11:06:22",
+  "plate" : "4564 ZNG"
+}, {
+  "departureTime" : "2021-01-10T14:54:17",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-10T14:52:02",
+  "plate" : "5781 MFM"
+}, {
+  "departureTime" : "2021-02-15T17:42:25",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-15T16:29:14",
+  "plate" : "7391 YPY"
+}, {
+  "departureTime" : "2021-07-20T14:16:57",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T13:39:44",
+  "plate" : "0777 EEU"
+}, {
+  "departureTime" : "2021-09-14T08:33:49",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-14T07:39:51",
+  "plate" : "9764 WFX"
+}, {
+  "departureTime" : "2021-12-04T14:58:17",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-04T14:12:53",
+  "plate" : "6887 YNU"
+}, {
+  "departureTime" : "2021-03-15T08:58:15",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-03-15T07:39:45",
+  "plate" : "8879 NYE"
+}, {
+  "departureTime" : "2021-12-09T19:36:59",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-09T17:51",
+  "plate" : "7085 CUV"
+}, {
+  "departureTime" : "2021-04-28T12:33:42",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-28T11:15:38",
+  "plate" : "6347 MXH"
+}, {
+  "departureTime" : "2021-07-16T13:15:06",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-16T13:01:29",
+  "plate" : "9739 VMK"
+}, {
+  "departureTime" : "2021-11-25T10:05:31",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-25T09:35:45",
+  "plate" : "7138 AHD"
+}, {
+  "departureTime" : "2021-09-21T19:20:26",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-21T18:40:06",
+  "plate" : "5692 VCQ"
+}, {
+  "departureTime" : "2021-05-08T16:17:54",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-08T15:04:10",
+  "plate" : "6408 SYI"
+}, {
+  "departureTime" : "2021-12-23T15:26:19",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-23T13:43:09",
+  "plate" : "6738 YPP"
+}, {
+  "departureTime" : "2021-03-07T20:43:20",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-07T19:44:23",
+  "plate" : "8973 HJU"
+}, {
+  "departureTime" : "2021-09-02T14:31:37",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-02T13:44:02",
+  "plate" : "3030 FTX"
+}, {
+  "departureTime" : "2021-12-18T12:37:08",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-18T12:09:53",
+  "plate" : "2194 AVM"
+}, {
+  "departureTime" : "2021-07-23T15:20:31",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-23T14:16:12",
+  "plate" : "4505 IOA"
+}, {
+  "departureTime" : "2021-04-17T10:54:25",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-17T09:15:26",
+  "plate" : "6005 AZH"
+}, {
+  "departureTime" : "2021-04-29T20:16:24",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-29T19:04:15",
+  "plate" : "6290 CPW"
+}, {
+  "departureTime" : "2021-10-20T13:40:16",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-20T13:08:38",
+  "plate" : "7251 IPH"
+}, {
+  "departureTime" : "2021-07-20T18:17:10",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T17:45:16",
+  "plate" : "8674 OIS"
+}, {
+  "departureTime" : "2021-11-08T19:22:01",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-08T17:24:16",
+  "plate" : "6220 VZZ"
+}, {
+  "departureTime" : "2021-02-06T13:18:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-06T12:40:47",
+  "plate" : "5774 UQX"
+}, {
+  "departureTime" : "2021-10-04T12:45:57",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-04T10:56:15",
+  "plate" : "7081 HFU"
+}, {
+  "departureTime" : "2021-07-28T09:10:39",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-28T08:27:50",
+  "plate" : "7976 YRO"
+}, {
+  "departureTime" : "2021-02-12T14:38:03",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-12T13:11:35",
+  "plate" : "5250 NQU"
+}, {
+  "departureTime" : "2021-06-30T11:05:04",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-30T10:36:08",
+  "plate" : "0248 PDT"
+}, {
+  "departureTime" : "2021-02-08T11:25:56",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-08T09:30:59",
+  "plate" : "9797 NLV"
+}, {
+  "departureTime" : "2021-04-08T11:19:53",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-08T10:15:53",
+  "plate" : "7191 XZQ"
+}, {
+  "departureTime" : "2021-07-22T17:06:19",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-22T15:14",
+  "plate" : "7234 XJH"
+}, {
+  "departureTime" : "2021-01-17T12:07:46",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-17T11:23:50",
+  "plate" : "4936 NVG"
+}, {
+  "departureTime" : "2021-12-24T14:21:20",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-24T13:14:17",
+  "plate" : "3585 ONJ"
+}, {
+  "departureTime" : "2021-04-25T16:18:07",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-25T15:54:54",
+  "plate" : "8436 RVA"
+}, {
+  "departureTime" : "2021-10-24T08:32:08",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-24T08:24:23",
+  "plate" : "2284 OXY"
+}, {
+  "departureTime" : "2021-05-03T18:46:49",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-03T18:17:37",
+  "plate" : "9074 SWQ"
+}, {
+  "departureTime" : "2021-12-29T14:34:06",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-29T13:22:52",
+  "plate" : "2888 NGE"
+}, {
+  "departureTime" : "2021-10-16T10:44:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-16T10:03:13",
+  "plate" : "5313 AVI"
+}, {
+  "departureTime" : "2021-11-16T16:42:08",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-16T16:31:24",
+  "plate" : "6549 WAJ"
+}, {
+  "departureTime" : "2021-05-31T12:51:57",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-31T11:23:49",
+  "plate" : "2585 EHL"
+}, {
+  "departureTime" : "2021-07-10T13:10:31",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-10T12:16",
+  "plate" : "2954 UHP"
+}, {
+  "departureTime" : "2021-08-14T10:43:11",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-14T09:20:16",
+  "plate" : "3126 ZOD"
+}, {
+  "departureTime" : "2021-01-15T17:31:32",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-15T17:11:26",
+  "plate" : "7288 QSX"
+}, {
+  "departureTime" : "2021-01-03T19:17:11",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-03T18:32:04",
+  "plate" : "6524 UYD"
+}, {
+  "departureTime" : "2021-12-11T17:19:23",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-11T16:56:36",
+  "plate" : "1871 UPC"
+}, {
+  "departureTime" : "2021-06-20T11:54:38",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-20T10:12:24",
+  "plate" : "5905 AXI"
+}, {
+  "departureTime" : "2021-02-22T10:48:44",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-22T09:03:37",
+  "plate" : "9749 CRT"
+}, {
+  "departureTime" : "2021-01-19T14:15:15",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-19T13:27:20",
+  "plate" : "8717 EXX"
+}, {
+  "departureTime" : "2021-04-07T18:16:25",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-07T17:13:23",
+  "plate" : "3689 UJL"
+}, {
+  "departureTime" : "2021-11-24T08:27:33",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-24T07:36:12",
+  "plate" : "2428 FUW"
+}, {
+  "departureTime" : "2021-02-22T08:56:47",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-22T08:01:36",
+  "plate" : "1940 TMJ"
+}, {
+  "departureTime" : "2021-12-18T11:14:53",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-18T09:16:24",
+  "plate" : "4331 EAI"
+}, {
+  "departureTime" : "2021-04-04T10:20:04",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T08:39:28",
+  "plate" : "6176 XDG"
+}, {
+  "departureTime" : "2021-10-29T13:34:23",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-29T13:00:26",
+  "plate" : "4432 GQF"
+}, {
+  "departureTime" : "2021-12-26T16:13:30",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-26T16:04:14",
+  "plate" : "2046 YYY"
+}, {
+  "departureTime" : "2021-01-09T17:34:05",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-09T17:13:16",
+  "plate" : "8693 GDL"
+}, {
+  "departureTime" : "2021-03-09T11:27:44",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-09T10:44:04",
+  "plate" : "6712 YTH"
+}, {
+  "departureTime" : "2021-02-16T13:26:53",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-16T12:04:42",
+  "plate" : "4951 ZHN"
+}, {
+  "departureTime" : "2021-11-05T11:06:30",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-05T10:42:07",
+  "plate" : "7162 WOH"
+}, {
+  "departureTime" : "2021-01-06T17:08:35",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-06T16:50:56",
+  "plate" : "2999 SGC"
+}, {
+  "departureTime" : "2021-07-23T19:45:03",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-23T18:05:58",
+  "plate" : "5666 HXI"
+}, {
+  "departureTime" : "2021-06-12T10:03:45",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-12T09:18:06",
+  "plate" : "7941 DFT"
+}, {
+  "departureTime" : "2021-11-20T16:51:55",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-20T15:36:15",
+  "plate" : "3143 ICL"
+}, {
+  "departureTime" : "2021-06-20T17:05:52",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-20T16:57:21",
+  "plate" : "3070 SSJ"
+}, {
+  "departureTime" : "2021-05-24T18:54:09",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-24T16:55:42",
+  "plate" : "7636 MMO"
+}, {
+  "departureTime" : "2021-03-07T13:30",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-07T13:21:50",
+  "plate" : "1675 WFZ"
+}, {
+  "departureTime" : "2021-06-02T15:21:33",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-02T13:43:35",
+  "plate" : "9266 MNQ"
+}, {
+  "departureTime" : "2021-06-30T19:08:55",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-30T18:17:55",
+  "plate" : "5405 NTI"
+}, {
+  "departureTime" : "2021-02-27T13:57:56",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-27T12:14:20",
+  "plate" : "1422 TOH"
+}, {
+  "departureTime" : "2021-01-09T20:22:27",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-09T19:51:52",
+  "plate" : "3545 TPN"
+}, {
+  "departureTime" : "2021-02-11T11:13:22",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-11T10:42:26",
+  "plate" : "7975 XFR"
+}, {
+  "departureTime" : "2021-08-22T13:25:22",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-22T11:55:08",
+  "plate" : "2605 JCA"
+}, {
+  "departureTime" : "2021-03-07T18:47:42",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-07T17:33:35",
+  "plate" : "4754 BYI"
+}, {
+  "departureTime" : "2021-11-05T09:03:49",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-05T07:56:02",
+  "plate" : "8855 NSV"
+}, {
+  "departureTime" : "2021-07-12T10:24:57",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-12T09:51:23",
+  "plate" : "0396 HLT"
+}, {
+  "departureTime" : "2021-10-27T13:26:26",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-27T12:36:16",
+  "plate" : "3846 CFV"
+}, {
+  "departureTime" : "2021-05-10T13:00:15",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-10T12:40:33",
+  "plate" : "4751 ODM"
+}, {
+  "departureTime" : "2021-07-18T08:00:29",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-18T07:32:22",
+  "plate" : "6405 DUA"
+}, {
+  "departureTime" : "2021-06-02T09:52:16",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-02T09:34:39",
+  "plate" : "4505 UVO"
+}, {
+  "departureTime" : "2021-08-30T17:29:37",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-30T16:32:14",
+  "plate" : "9435 UHX"
+}, {
+  "departureTime" : "2021-06-22T11:07:20",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-22T10:29:53",
+  "plate" : "7791 GOW"
+}, {
+  "departureTime" : "2021-04-30T14:04:37",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-30T13:42:38",
+  "plate" : "7361 IVK"
+}, {
+  "departureTime" : "2021-11-01T09:26:02",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-01T08:36:56",
+  "plate" : "2172 CSS"
+}, {
+  "departureTime" : "2021-05-12T16:51:48",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-12T15:23:19",
+  "plate" : "2164 MTZ"
+}, {
+  "departureTime" : "2021-12-05T10:53:44",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-05T10:18:10",
+  "plate" : "4894 WEQ"
+}, {
+  "departureTime" : "2021-03-01T11:27:52",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-03-01T10:56:37",
+  "plate" : "7153 VKU"
+}, {
+  "departureTime" : "2021-11-18T10:30:03",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-18T08:56:09",
+  "plate" : "9047 BER"
+}, {
+  "departureTime" : "2021-10-23T17:06:54",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-23T16:04:53",
+  "plate" : "9089 JZM"
+}, {
+  "departureTime" : "2021-02-23T19:40:31",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-23T17:46:56",
+  "plate" : "9804 OXB"
+}, {
+  "departureTime" : "2021-08-07T19:38:25",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-07T19:35:04",
+  "plate" : "8584 XHZ"
+}, {
+  "departureTime" : "2021-05-01T20:59:04",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-01T19:39:18",
+  "plate" : "1160 FZR"
+}, {
+  "departureTime" : "2021-11-18T15:17:50",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-18T14:52:33",
+  "plate" : "5061 ZER"
+}, {
+  "departureTime" : "2021-09-03T12:38:30",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-03T12:10:47",
+  "plate" : "2503 RKA"
+}, {
+  "departureTime" : "2021-06-21T13:43:59",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-21T12:39:38",
+  "plate" : "9986 HAS"
+}, {
+  "departureTime" : "2021-07-22T10:08:56",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-22T09:10:05",
+  "plate" : "9695 LBW"
+}, {
+  "departureTime" : "2021-07-27T19:03:29",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-27T18:39:32",
+  "plate" : "2860 XNW"
+}, {
+  "departureTime" : "2021-11-29T20:23:50",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-29T19:00:15",
+  "plate" : "6992 CMG"
+}, {
+  "departureTime" : "2021-06-04T18:30:03",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-04T18:19:11",
+  "plate" : "7018 PTI"
+}, {
+  "departureTime" : "2021-10-21T19:29:17",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-21T18:45:30",
+  "plate" : "8313 DXY"
+}, {
+  "departureTime" : "2021-07-11T14:33:55",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-11T13:17:17",
+  "plate" : "1189 DES"
+}, {
+  "departureTime" : "2021-03-17T11:51:12",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-17T10:36:34",
+  "plate" : "7654 UCO"
+}, {
+  "departureTime" : "2021-07-30T14:44:07",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-30T13:26:44",
+  "plate" : "9158 ZEN"
+}, {
+  "departureTime" : "2021-06-18T12:23:03",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-18T11:48:33",
+  "plate" : "5070 BRP"
+}, {
+  "departureTime" : "2021-12-16T17:10:09",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-16T15:57:41",
+  "plate" : "5519 AZD"
+}, {
+  "departureTime" : "2021-03-28T09:24:11",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-28T09:10:42",
+  "plate" : "8409 FAX"
+}, {
+  "departureTime" : "2021-03-23T10:35",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-23T09:37:05",
+  "plate" : "7394 HFM"
+}, {
+  "departureTime" : "2021-07-31T13:07:39",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-31T11:38:34",
+  "plate" : "2179 DHY"
+}, {
+  "departureTime" : "2021-12-13T09:59:32",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-13T09:26:16",
+  "plate" : "0893 XIZ"
+}, {
+  "departureTime" : "2021-07-24T11:38:45",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-24T10:33:36",
+  "plate" : "7664 ZZZ"
+}, {
+  "departureTime" : "2021-06-11T08:34:19",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-06-11T07:50:22",
+  "plate" : "4197 EAG"
+}, {
+  "departureTime" : "2021-06-15T09:53:40",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-15T08:33:29",
+  "plate" : "6121 BVU"
+}, {
+  "departureTime" : "2021-05-27T16:50:18",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-27T15:44:16",
+  "plate" : "5343 KNQ"
+}, {
+  "departureTime" : "2021-10-13T11:31:40",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-13T11:03:40",
+  "plate" : "0077 ZHS"
+}, {
+  "departureTime" : "2021-03-24T18:52:18",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-24T18:21:19",
+  "plate" : "4277 EGL"
+}, {
+  "departureTime" : "2021-12-15T15:18:07",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-15T14:52:56",
+  "plate" : "1994 LHY"
+}, {
+  "departureTime" : "2021-11-20T08:43:28",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-20T08:14:33",
+  "plate" : "3981 DPB"
+}, {
+  "departureTime" : "2021-02-26T10:28:09",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-26T08:29:16",
+  "plate" : "4777 MBD"
+}, {
+  "departureTime" : "2021-04-03T13:23:23",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-03T12:43:25",
+  "plate" : "3132 ZAJ"
+}, {
+  "departureTime" : "2021-10-25T09:11:42",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-25T08:05:03",
+  "plate" : "0098 LCS"
+}, {
+  "departureTime" : "2021-03-11T19:48:47",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-11T18:11:55",
+  "plate" : "0875 WQN"
+}, {
+  "departureTime" : "2021-01-02T12:59:10",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-02T11:51:39",
+  "plate" : "3562 FPG"
+}, {
+  "departureTime" : "2021-07-12T16:28:53",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-12T15:39:45",
+  "plate" : "7147 JNR"
+}, {
+  "departureTime" : "2021-02-26T09:01:26",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-26T08:34:58",
+  "plate" : "4560 LTC"
+}, {
+  "departureTime" : "2021-12-11T17:41:11",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-11T16:37:55",
+  "plate" : "1923 MYF"
+}, {
+  "departureTime" : "2021-07-01T14:11:34",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-01T12:14:32",
+  "plate" : "5700 KWB"
+}, {
+  "departureTime" : "2021-05-18T16:58:42",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-18T16:42:26",
+  "plate" : "1214 FED"
+}, {
+  "departureTime" : "2021-01-11T10:32:03",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-01-11T09:14:23",
+  "plate" : "9659 OYP"
+}, {
+  "departureTime" : "2021-08-15T12:11:56",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-15T11:25:05",
+  "plate" : "7876 RIJ"
+}, {
+  "departureTime" : "2021-08-12T10:56:51",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-08-12T10:01:58",
+  "plate" : "7061 IWS"
+}, {
+  "departureTime" : "2021-11-26T16:13:27",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-26T15:29:38",
+  "plate" : "5381 UPK"
+}, {
+  "departureTime" : "2021-01-31T09:57:38",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-31T08:17:26",
+  "plate" : "4227 RKR"
+}, {
+  "departureTime" : "2021-04-14T11:28:25",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-14T11:25:38",
+  "plate" : "5013 KVK"
+}, {
+  "departureTime" : "2021-06-12T10:59:58",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-12T10:07:48",
+  "plate" : "0474 KED"
+}, {
+  "departureTime" : "2021-05-20T09:08:05",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-20T08:15:41",
+  "plate" : "8003 MKW"
+}, {
+  "departureTime" : "2021-02-04T14:22:40",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-04T13:26:55",
+  "plate" : "8981 RXP"
+}, {
+  "departureTime" : "2021-10-16T21:07:05",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-16T19:18:53",
+  "plate" : "1175 HZO"
+}, {
+  "departureTime" : "2021-06-09T19:43:58",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-09T17:56:10",
+  "plate" : "7663 VWG"
+}, {
+  "departureTime" : "2021-06-10T12:27:08",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-06-10T11:30:35",
+  "plate" : "8857 KQC"
+}, {
+  "departureTime" : "2021-10-17T12:52:13",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-17T11:44:49",
+  "plate" : "4062 JVW"
+}, {
+  "departureTime" : "2021-05-23T11:00:56",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-23T09:57:36",
+  "plate" : "7719 FCS"
+}, {
+  "departureTime" : "2021-04-21T12:12:18",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-21T10:41:17",
+  "plate" : "0726 PJV"
+}, {
+  "departureTime" : "2021-12-11T14:28:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-11T13:03:50",
+  "plate" : "9939 MJE"
+}, {
+  "departureTime" : "2021-01-13T09:37:20",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-13T08:13:14",
+  "plate" : "3090 SJM"
+}, {
+  "departureTime" : "2021-11-13T19:40:01",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-13T18:18:50",
+  "plate" : "6318 PBR"
+}, {
+  "departureTime" : "2021-06-02T13:03:33",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-02T12:51:40",
+  "plate" : "7683 YHL"
+}, {
+  "departureTime" : "2021-05-23T16:00:08",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-23T14:52:10",
+  "plate" : "4804 LGR"
+}, {
+  "departureTime" : "2021-08-06T18:34:04",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-06T18:04",
+  "plate" : "1329 ACE"
+}, {
+  "departureTime" : "2021-10-13T07:42:22",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-13T07:17:30",
+  "plate" : "2881 CIM"
+}, {
+  "departureTime" : "2021-10-18T15:54:12",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-18T15:49:57",
+  "plate" : "3538 BUD"
+}, {
+  "departureTime" : "2021-07-29T16:53:26",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-29T15:51:17",
+  "plate" : "2017 QID"
+}, {
+  "departureTime" : "2021-10-18T09:41:13",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-18T09:23:53",
+  "plate" : "2053 NRB"
+}, {
+  "departureTime" : "2021-09-17T17:46:42",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-17T17:42:28",
+  "plate" : "4084 IKJ"
+}, {
+  "departureTime" : "2021-11-03T12:27:45",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-03T11:13:12",
+  "plate" : "1217 VCF"
+}, {
+  "departureTime" : "2021-09-17T17:26:49",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-17T15:44:06",
+  "plate" : "0801 SYJ"
+}, {
+  "departureTime" : "2021-04-10T11:22:27",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-10T11:21:18",
+  "plate" : "5188 ULP"
+}, {
+  "departureTime" : "2021-02-22T18:05:20",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-22T17:45:38",
+  "plate" : "4311 FXK"
+}, {
+  "departureTime" : "2021-06-02T13:31:39",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-02T11:58:02",
+  "plate" : "4633 AQH"
+}, {
+  "departureTime" : "2021-10-15T15:59:53",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-15T15:03:44",
+  "plate" : "5408 YXS"
+}, {
+  "departureTime" : "2021-06-15T19:19:05",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-15T18:34:02",
+  "plate" : "5181 MTF"
+}, {
+  "departureTime" : "2021-04-27T13:47:09",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-27T12:45:06",
+  "plate" : "8926 FWP"
+}, {
+  "departureTime" : "2021-05-24T08:47:55",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-24T07:18:48",
+  "plate" : "7241 JMZ"
+}, {
+  "departureTime" : "2021-01-31T13:05:20",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-31T11:51:01",
+  "plate" : "5784 CFH"
+}, {
+  "departureTime" : "2021-07-01T10:20:08",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-01T09:51:46",
+  "plate" : "1547 OOH"
+}, {
+  "departureTime" : "2021-03-28T14:26:33",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-28T13:51:02",
+  "plate" : "7694 ZJS"
+}, {
+  "departureTime" : "2021-11-28T15:02:32",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-28T14:41:56",
+  "plate" : "1848 XZK"
+}, {
+  "departureTime" : "2021-08-20T09:18:45",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-20T08:02:46",
+  "plate" : "2457 GFB"
+}, {
+  "departureTime" : "2021-01-19T17:18:07",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-19T17:10:05",
+  "plate" : "6828 SYJ"
+}, {
+  "departureTime" : "2021-10-21T16:34:27",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-21T15:33:25",
+  "plate" : "3686 FSJ"
+}, {
+  "departureTime" : "2021-10-19T15:38:40",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-19T13:47:48",
+  "plate" : "6816 SVU"
+}, {
+  "departureTime" : "2021-09-07T18:44:10",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-07T18:25:47",
+  "plate" : "1448 FMI"
+}, {
+  "departureTime" : "2021-09-24T20:56",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-24T19:19:01",
+  "plate" : "8628 GAT"
+}, {
+  "departureTime" : "2021-04-19T17:29:24",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-04-19T16:36:03",
+  "plate" : "1999 INQ"
+}, {
+  "departureTime" : "2021-06-08T19:44:40",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-08T19:17:05",
+  "plate" : "9339 QYI"
+}, {
+  "departureTime" : "2021-10-14T14:15:40",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-14T13:27:47",
+  "plate" : "3294 GLU"
+}, {
+  "departureTime" : "2021-04-21T18:41:50",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-21T18:26:54",
+  "plate" : "7336 KNW"
+}, {
+  "departureTime" : "2021-12-19T08:15:05",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-19T08:04:41",
+  "plate" : "5768 LHW"
+}, {
+  "departureTime" : "2021-01-15T12:27:18",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-15T12:12:58",
+  "plate" : "8515 RYZ"
+}, {
+  "departureTime" : "2021-06-12T09:38:02",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-12T08:48:55",
+  "plate" : "7198 IRP"
+}, {
+  "departureTime" : "2021-12-06T16:15:27",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-06T14:46:23",
+  "plate" : "1448 LAN"
+}, {
+  "departureTime" : "2021-10-25T16:03:21",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-25T15:16:09",
+  "plate" : "6540 JVU"
+}, {
+  "departureTime" : "2021-06-09T16:13:43",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-09T14:43:51",
+  "plate" : "8654 YWT"
+}, {
+  "departureTime" : "2021-11-20T10:03:25",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-20T08:18:59",
+  "plate" : "7973 WLR"
+}, {
+  "departureTime" : "2021-11-11T17:35:23",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-11T17:10:23",
+  "plate" : "2815 QNE"
+}, {
+  "departureTime" : "2021-10-02T18:00:55",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-02T16:16:37",
+  "plate" : "9881 XDK"
+}, {
+  "departureTime" : "2021-11-11T10:37:25",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-11T10:23:13",
+  "plate" : "3503 DPH"
+}, {
+  "departureTime" : "2021-01-10T13:52:31",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-10T12:40:35",
+  "plate" : "4660 ORM"
+}, {
+  "departureTime" : "2021-10-29T09:59:16",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-29T09:14:01",
+  "plate" : "1415 LIU"
+}, {
+  "departureTime" : "2021-05-07T09:11:01",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-05-07T08:08:20",
+  "plate" : "5850 JQG"
+}, {
+  "departureTime" : "2021-10-05T18:56:42",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-10-05T17:58:20",
+  "plate" : "8970 VKP"
+}, {
+  "departureTime" : "2021-03-03T16:33:30",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-03T15:20:44",
+  "plate" : "7910 VHO"
+}, {
+  "departureTime" : "2021-03-14T17:55:12",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-14T17:13:25",
+  "plate" : "2655 BTO"
+}, {
+  "departureTime" : "2021-09-27T16:02:38",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-27T15:14:10",
+  "plate" : "7294 ZKY"
+}, {
+  "departureTime" : "2021-07-08T10:38:55",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-08T09:06:15",
+  "plate" : "3813 PGT"
+}, {
+  "departureTime" : "2021-01-17T08:10:38",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-17T08:02:44",
+  "plate" : "6854 DUU"
+}, {
+  "departureTime" : "2021-02-09T16:27:34",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-09T16:17:54",
+  "plate" : "0831 WUO"
+}, {
+  "departureTime" : "2021-01-21T11:47:57",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-01-21T10:39:35",
+  "plate" : "0574 VCZ"
+}, {
+  "departureTime" : "2021-03-06T21:21:32",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-03-06T19:58:52",
+  "plate" : "3662 EYH"
+}, {
+  "departureTime" : "2021-11-10T20:41:03",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-10T19:41:11",
+  "plate" : "6386 VSS"
+}, {
+  "departureTime" : "2021-11-23T19:12:26",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-23T18:51:26",
+  "plate" : "0374 LCM"
+}, {
+  "departureTime" : "2021-03-18T09:11:01",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-18T09:00:27",
+  "plate" : "8549 IXL"
+}, {
+  "departureTime" : "2021-10-17T11:52:25",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-17T11:02:53",
+  "plate" : "0857 PXG"
+}, {
+  "departureTime" : "2021-06-08T11:35:24",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-08T10:21:55",
+  "plate" : "2956 RJY"
+}, {
+  "departureTime" : "2021-06-13T11:57:19",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-13T09:58:44",
+  "plate" : "9837 CZV"
+}, {
+  "departureTime" : "2021-04-06T19:36:15",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-06T18:56:43",
+  "plate" : "2899 IVH"
+}, {
+  "departureTime" : "2021-07-24T12:51:11",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-24T12:36:52",
+  "plate" : "5216 CCM"
+}, {
+  "departureTime" : "2021-07-05T10:00:18",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-05T09:10:19",
+  "plate" : "6809 WWA"
+}, {
+  "departureTime" : "2021-07-19T13:07:41",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-19T12:10:46",
+  "plate" : "7250 RNW"
+}, {
+  "departureTime" : "2021-03-16T18:46:50",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-16T18:38:23",
+  "plate" : "3776 QPM"
+}, {
+  "departureTime" : "2021-10-27T09:02:09",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-27T08:08:34",
+  "plate" : "5921 LXG"
+}, {
+  "departureTime" : "2021-08-05T10:06:40",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-08-05T08:27:32",
+  "plate" : "4049 QSR"
+}, {
+  "departureTime" : "2021-03-23T10:37:53",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-23T10:03:17",
+  "plate" : "5755 UUT"
+}, {
+  "departureTime" : "2021-12-24T13:20:53",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-24T12:09:58",
+  "plate" : "5724 IVO"
+}, {
+  "departureTime" : "2021-01-19T12:15",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-19T12:07:24",
+  "plate" : "6323 DJI"
+}, {
+  "departureTime" : "2021-04-16T16:12:56",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-16T15:10:04",
+  "plate" : "4081 GWA"
+}, {
+  "departureTime" : "2021-03-07T16:57:29",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-03-07T15:37:12",
+  "plate" : "8350 YEH"
+}, {
+  "departureTime" : "2021-12-29T18:51",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-29T18:02:42",
+  "plate" : "9605 ZOW"
+}, {
+  "departureTime" : "2021-07-29T17:34:46",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-29T15:49:52",
+  "plate" : "8877 EXI"
+}, {
+  "departureTime" : "2021-11-02T19:21:11",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-02T18:06:38",
+  "plate" : "4837 QXW"
+}, {
+  "departureTime" : "2021-11-28T19:25:51",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-28T18:53:42",
+  "plate" : "6460 AHV"
+}, {
+  "departureTime" : "2021-05-26T14:48:11",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-26T13:55:35",
+  "plate" : "9339 KIE"
+}, {
+  "departureTime" : "2021-07-24T13:20:53",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-24T12:31:58",
+  "plate" : "0971 LQZ"
+}, {
+  "departureTime" : "2021-10-16T13:21:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-16T11:40:58",
+  "plate" : "7288 YCL"
+}, {
+  "departureTime" : "2021-02-02T12:18:23",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-02T10:49:26",
+  "plate" : "9815 RJW"
+}, {
+  "departureTime" : "2021-05-05T12:21:01",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-05T11:13:31",
+  "plate" : "9796 NLO"
+}, {
+  "departureTime" : "2021-03-19T17:43:46",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-03-19T17:14:47",
+  "plate" : "6887 OJQ"
+}, {
+  "departureTime" : "2021-10-25T11:48:17",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-25T09:55:11",
+  "plate" : "0032 NPI"
+}, {
+  "departureTime" : "2021-12-20T15:57",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-20T14:12:12",
+  "plate" : "3307 QJD"
+}, {
+  "departureTime" : "2021-06-21T16:48:06",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-21T15:30:59",
+  "plate" : "3990 IPP"
+}, {
+  "departureTime" : "2021-06-01T09:42:51",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-01T08:12:30",
+  "plate" : "7879 ENC"
+}, {
+  "departureTime" : "2021-11-22T09:06",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-22T09:03:04",
+  "plate" : "2611 DCM"
+}, {
+  "departureTime" : "2021-01-19T16:33:09",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-19T15:30:06",
+  "plate" : "0790 BHR"
+}, {
+  "departureTime" : "2021-11-26T10:14:09",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-26T08:20:43",
+  "plate" : "3384 JAU"
+}, {
+  "departureTime" : "2021-07-22T15:12:43",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-22T14:14:58",
+  "plate" : "6671 YCX"
+}, {
+  "departureTime" : "2021-06-21T11:41:45",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-21T11:09:19",
+  "plate" : "2778 XXC"
+}, {
+  "departureTime" : "2021-02-27T14:47:17",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-27T13:12:59",
+  "plate" : "5514 MEB"
+}, {
+  "departureTime" : "2021-01-11T15:45:59",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-01-11T14:14:50",
+  "plate" : "9968 HSE"
+}, {
+  "departureTime" : "2021-07-23T09:53:41",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-23T08:25:33",
+  "plate" : "2581 VEM"
+}, {
+  "departureTime" : "2021-09-12T14:24:33",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-12T12:38:09",
+  "plate" : "8952 OZX"
+}, {
+  "departureTime" : "2021-05-20T18:01:30",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-20T16:28:47",
+  "plate" : "6329 XPX"
+}, {
+  "departureTime" : "2021-01-17T11:51:18",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-17T11:24:59",
+  "plate" : "7959 CHV"
+}, {
+  "departureTime" : "2021-07-31T15:25:54",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-31T15:22:44",
+  "plate" : "3177 UCQ"
+}, {
+  "departureTime" : "2021-09-16T17:51:44",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-16T17:06:59",
+  "plate" : "7746 QCN"
+}, {
+  "departureTime" : "2021-08-20T11:31:11",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-20T11:10:51",
+  "plate" : "0764 WSS"
+}, {
+  "departureTime" : "2021-04-29T17:32:34",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-29T17:19:13",
+  "plate" : "5073 OKP"
+}, {
+  "departureTime" : "2021-04-03T11:37:49",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-03T10:08:04",
+  "plate" : "5947 AAK"
+}, {
+  "departureTime" : "2021-08-14T16:20:53",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-14T16:15:31",
+  "plate" : "9860 NCO"
+}, {
+  "departureTime" : "2021-06-17T11:14:07",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-06-17T10:53:27",
+  "plate" : "1650 XIM"
+}, {
+  "departureTime" : "2021-03-12T19:29:04",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-03-12T18:24:48",
+  "plate" : "0391 JQC"
+}, {
+  "departureTime" : "2021-08-07T17:23:51",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-07T15:26:53",
+  "plate" : "3376 ZLT"
+}, {
+  "departureTime" : "2021-09-19T13:13:26",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-19T12:49:37",
+  "plate" : "7708 EHX"
+}, {
+  "departureTime" : "2021-12-31T15:51:54",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-31T15:04:29",
+  "plate" : "6326 LDS"
+}, {
+  "departureTime" : "2021-01-20T18:35:29",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-20T17:39:05",
+  "plate" : "8153 TUK"
+}, {
+  "departureTime" : "2021-05-30T12:23:45",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-30T12:21:12",
+  "plate" : "0061 YUK"
+}, {
+  "departureTime" : "2021-08-19T12:51:09",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-08-19T12:28:44",
+  "plate" : "1666 TZL"
+}, {
+  "departureTime" : "2021-01-27T17:21:39",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-27T15:59:48",
+  "plate" : "0333 NQH"
+}, {
+  "departureTime" : "2021-11-15T12:08:05",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-15T10:29:37",
+  "plate" : "5349 MSM"
+}, {
+  "departureTime" : "2021-09-29T18:30:42",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-29T18:25:45",
+  "plate" : "0294 MPW"
+}, {
+  "departureTime" : "2021-04-05T14:57:37",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-04-05T14:26:02",
+  "plate" : "1802 PHO"
+}, {
+  "departureTime" : "2021-10-21T13:38:52",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-21T11:59:38",
+  "plate" : "4073 NYG"
+}, {
+  "departureTime" : "2021-09-27T21:13:45",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-27T19:16:05",
+  "plate" : "9427 JBD"
+}, {
+  "departureTime" : "2021-12-29T14:14:56",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-29T12:58:25",
+  "plate" : "3481 JRO"
+}, {
+  "departureTime" : "2021-08-19T12:37:07",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-08-19T11:50:01",
+  "plate" : "5026 KAK"
+}, {
+  "departureTime" : "2021-04-12T14:08:03",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-04-12T12:11:51",
+  "plate" : "6577 ZIS"
+}, {
+  "departureTime" : "2021-09-21T14:58:51",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-21T13:56:08",
+  "plate" : "0835 MMB"
+}, {
+  "departureTime" : "2021-10-11T14:13:25",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-11T12:53:55",
+  "plate" : "5792 EXI"
+}, {
+  "departureTime" : "2021-06-02T18:23:15",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-02T17:39:35",
+  "plate" : "1557 BWJ"
+}, {
+  "departureTime" : "2021-06-07T11:30:37",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-07T10:29:20",
+  "plate" : "9441 BHX"
+}, {
+  "departureTime" : "2021-10-16T16:04:31",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-10-16T15:24:09",
+  "plate" : "7081 CKP"
+}, {
+  "departureTime" : "2021-02-13T15:57:19",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-13T14:05:42",
+  "plate" : "4857 CCD"
+}, {
+  "departureTime" : "2021-07-20T20:09:09",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T18:14:35",
+  "plate" : "7940 KVY"
+}, {
+  "departureTime" : "2021-12-16T16:07:55",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-12-16T16:00:57",
+  "plate" : "6520 YKE"
+}, {
+  "departureTime" : "2021-04-15T16:29:19",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-15T14:36:15",
+  "plate" : "5781 NDY"
+}, {
+  "departureTime" : "2021-02-25T17:09:18",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-25T15:10:34",
+  "plate" : "5247 ZFY"
+}, {
+  "departureTime" : "2021-07-21T11:02:22",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-21T09:33:57",
+  "plate" : "0891 SNW"
+}, {
+  "departureTime" : "2021-02-12T14:45:51",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-12T13:40:35",
+  "plate" : "9526 QOQ"
+}, {
+  "departureTime" : "2021-06-19T08:03:37",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-19T07:54:04",
+  "plate" : "1806 UNP"
+}, {
+  "departureTime" : "2021-05-30T17:25:24",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-30T16:42:07",
+  "plate" : "7736 KOT"
+}, {
+  "departureTime" : "2021-05-12T13:53:10",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-12T13:03:25",
+  "plate" : "6553 RQG"
+}, {
+  "departureTime" : "2021-04-17T17:31:40",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-17T17:27:50",
+  "plate" : "0034 NJF"
+}, {
+  "departureTime" : "2021-07-15T14:28:08",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-15T14:23:21",
+  "plate" : "7039 LDV"
+}, {
+  "departureTime" : "2021-04-13T08:12:53",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-13T07:11:56",
+  "plate" : "7392 XEJ"
+}, {
+  "departureTime" : "2021-11-01T16:45:15",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-01T16:25:02",
+  "plate" : "0897 KQU"
+}, {
+  "departureTime" : "2021-02-25T11:54:01",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-25T11:06:09",
+  "plate" : "2870 YKG"
+}, {
+  "departureTime" : "2021-05-05T14:34:35",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-05T12:38:29",
+  "plate" : "4170 DRY"
+}, {
+  "departureTime" : "2021-04-04T18:21:07",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T18:17:10",
+  "plate" : "7560 KUZ"
+}, {
+  "departureTime" : "2021-07-01T11:54:08",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-01T10:22:33",
+  "plate" : "3407 YBC"
+}, {
+  "departureTime" : "2021-01-13T16:14:31",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-13T15:38:53",
+  "plate" : "2209 GNS"
+}, {
+  "departureTime" : "2021-01-17T11:39:51",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-17T10:13:06",
+  "plate" : "5674 ZSO"
+}, {
+  "departureTime" : "2021-04-07T10:20:02",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-04-07T08:58:17",
+  "plate" : "7840 JOG"
+}, {
+  "departureTime" : "2021-11-06T15:07:35",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-11-06T13:26:43",
+  "plate" : "0780 FDG"
+}, {
+  "departureTime" : "2021-09-30T14:24:15",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-30T13:04:23",
+  "plate" : "9771 IGK"
+}, {
+  "departureTime" : "2021-07-06T08:52:24",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-06T07:05:09",
+  "plate" : "5329 EFG"
+}, {
+  "departureTime" : "2021-05-29T18:23:52",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-29T16:25:17",
+  "plate" : "3600 LLV"
+}, {
+  "departureTime" : "2021-10-24T11:56:44",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-24T11:21:16",
+  "plate" : "6441 PSQ"
+}, {
+  "departureTime" : "2021-01-15T18:45:41",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-15T16:47:16",
+  "plate" : "3186 TZD"
+}, {
+  "departureTime" : "2021-11-10T19:23:50",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-10T18:12:13",
+  "plate" : "6415 SKG"
+}, {
+  "departureTime" : "2021-04-18T14:00:44",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-18T13:08:38",
+  "plate" : "3336 XDS"
+}, {
+  "departureTime" : "2021-10-07T15:27:57",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-07T14:38:49",
+  "plate" : "5475 RBB"
+}, {
+  "departureTime" : "2021-04-04T17:59:08",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T17:32:10",
+  "plate" : "1651 UYT"
+}, {
+  "departureTime" : "2021-07-16T15:13:07",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-16T14:02:43",
+  "plate" : "4209 GWW"
+}, {
+  "departureTime" : "2021-07-08T14:59:20",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-08T14:29:58",
+  "plate" : "6645 JCT"
+}, {
+  "departureTime" : "2021-05-03T20:29:42",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-03T18:42:20",
+  "plate" : "0680 HNY"
+}, {
+  "departureTime" : "2021-12-18T16:12:19",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-18T14:28:44",
+  "plate" : "8060 REX"
+}, {
+  "departureTime" : "2021-10-06T14:15",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-06T13:31:04",
+  "plate" : "7477 JHP"
+}, {
+  "departureTime" : "2021-12-26T20:41:49",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-26T18:43:50",
+  "plate" : "2394 PJB"
+}, {
+  "departureTime" : "2021-02-07T11:08:11",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-02-07T10:24:46",
+  "plate" : "0131 HCK"
+}, {
+  "departureTime" : "2021-06-09T11:16:07",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-09T10:34:14",
+  "plate" : "7821 EPM"
+}, {
+  "departureTime" : "2021-12-18T12:39:08",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-18T12:24:13",
+  "plate" : "1439 MRC"
+}, {
+  "departureTime" : "2021-11-05T15:55:02",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-05T14:17:29",
+  "plate" : "0500 RDF"
+}, {
+  "departureTime" : "2021-03-04T11:55:02",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-04T11:02:14",
+  "plate" : "2714 KBD"
+}, {
+  "departureTime" : "2021-11-30T10:15:46",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-30T08:43:40",
+  "plate" : "7675 LNA"
+}, {
+  "departureTime" : "2021-12-12T18:46:09",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-12T18:14",
+  "plate" : "5490 GHU"
+}, {
+  "departureTime" : "2021-02-27T08:17:01",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-27T07:12:40",
+  "plate" : "3659 LDX"
+}, {
+  "departureTime" : "2021-01-15T10:16:53",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-15T09:52:14",
+  "plate" : "0127 RFB"
+}, {
+  "departureTime" : "2021-09-20T11:22:25",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-20T11:10:41",
+  "plate" : "3091 ZME"
+}, {
+  "departureTime" : "2021-12-08T13:48:35",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-08T12:26:12",
+  "plate" : "1084 TQB"
+}, {
+  "departureTime" : "2021-12-15T12:29:15",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-15T11:39:36",
+  "plate" : "5054 ZMY"
+}, {
+  "departureTime" : "2021-01-05T09:16:27",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-01-05T08:02:31",
+  "plate" : "9963 CCP"
+}, {
+  "departureTime" : "2021-01-10T13:21:56",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-10T12:14:58",
+  "plate" : "1771 CYC"
+}, {
+  "departureTime" : "2021-01-02T17:43:30",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-02T17:03:29",
+  "plate" : "1838 TOS"
+}, {
+  "departureTime" : "2021-04-18T14:38:52",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-18T13:27:54",
+  "plate" : "7757 LSY"
+}, {
+  "departureTime" : "2021-05-15T18:51:24",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-15T18:09:32",
+  "plate" : "4459 HQB"
+}, {
+  "departureTime" : "2021-04-08T11:12:24",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-08T10:22:14",
+  "plate" : "2799 HLJ"
+}, {
+  "departureTime" : "2021-01-27T15:20:13",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-27T15:07:34",
+  "plate" : "8035 GHW"
+}, {
+  "departureTime" : "2021-10-11T13:28:15",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-11T11:30:33",
+  "plate" : "8881 BBL"
+}, {
+  "departureTime" : "2021-12-01T13:23:28",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-01T12:08:48",
+  "plate" : "8117 UGH"
+}, {
+  "departureTime" : "2021-02-09T16:53:56",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-09T15:43:52",
+  "plate" : "6405 ULJ"
+}, {
+  "departureTime" : "2021-05-11T10:18:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-11T10:02:53",
+  "plate" : "1383 IEE"
+}, {
+  "departureTime" : "2021-10-15T09:00:43",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-15T08:45:18",
+  "plate" : "8007 NIT"
+}, {
+  "departureTime" : "2021-08-16T09:22:39",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-16T07:43:26",
+  "plate" : "9817 GZR"
+}, {
+  "departureTime" : "2021-01-02T09:47:55",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-01-02T09:31:38",
+  "plate" : "6250 GMU"
+}, {
+  "departureTime" : "2021-06-08T16:55:26",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-08T14:57:20",
+  "plate" : "4647 ZLW"
+}, {
+  "departureTime" : "2021-08-06T08:17:08",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-06T07:10:54",
+  "plate" : "2302 WWB"
+}, {
+  "departureTime" : "2021-09-26T13:28:26",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-26T11:59:18",
+  "plate" : "7016 UMN"
+}, {
+  "departureTime" : "2021-06-21T20:23:06",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-21T18:39",
+  "plate" : "2650 HSO"
+}, {
+  "departureTime" : "2021-12-03T12:19:33",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-03T10:36:53",
+  "plate" : "5575 QKS"
+}, {
+  "departureTime" : "2021-12-07T09:33:10",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-12-07T09:13:02",
+  "plate" : "5433 RUI"
+}, {
+  "departureTime" : "2021-01-06T14:04:57",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-06T12:50:11",
+  "plate" : "2089 UZC"
+}, {
+  "departureTime" : "2021-05-12T16:22:39",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-12T15:19:39",
+  "plate" : "7781 NTT"
+}, {
+  "departureTime" : "2021-09-27T20:25:08",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-27T18:57:52",
+  "plate" : "3412 LUJ"
+}, {
+  "departureTime" : "2021-04-24T13:28:36",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-24T12:22:32",
+  "plate" : "2681 CTC"
+}, {
+  "departureTime" : "2021-09-17T13:24:55",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-17T11:27:40",
+  "plate" : "9409 JDW"
+}, {
+  "departureTime" : "2021-08-17T15:35:20",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-17T14:19:02",
+  "plate" : "8193 XCL"
+}, {
+  "departureTime" : "2021-02-20T20:29:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-20T18:30:38",
+  "plate" : "0572 UZW"
+}, {
+  "departureTime" : "2021-01-20T11:31:41",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-20T09:43:16",
+  "plate" : "1699 IIW"
+}, {
+  "departureTime" : "2021-04-23T13:42:45",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-04-23T12:28:58",
+  "plate" : "6368 PZP"
+}, {
+  "departureTime" : "2021-05-13T09:51:14",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-13T07:59:23",
+  "plate" : "4091 MAU"
+}, {
+  "departureTime" : "2021-12-06T18:46:40",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-06T17:46:38",
+  "plate" : "8497 TYF"
+}, {
+  "departureTime" : "2021-09-30T10:59:33",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-30T09:09:02",
+  "plate" : "7750 OKC"
+}, {
+  "departureTime" : "2021-11-19T11:38:04",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-19T10:59:54",
+  "plate" : "6558 MVE"
+}, {
+  "departureTime" : "2021-08-10T18:54:02",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-10T18:01:23",
+  "plate" : "7072 LCH"
+}, {
+  "departureTime" : "2021-05-11T16:05:42",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-11T15:24:55",
+  "plate" : "0052 AEY"
+}, {
+  "departureTime" : "2021-04-15T11:46:18",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-04-15T09:49:38",
+  "plate" : "5530 SYG"
+}, {
+  "departureTime" : "2021-01-29T18:19:43",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-29T17:02:27",
+  "plate" : "0083 EVN"
+}, {
+  "departureTime" : "2021-07-08T16:41:47",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-07-08T15:44:45",
+  "plate" : "8618 QBT"
+}, {
+  "departureTime" : "2021-09-28T08:44:27",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-28T07:14:27",
+  "plate" : "2286 MCX"
+}, {
+  "departureTime" : "2021-09-08T19:38:27",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-08T18:33:58",
+  "plate" : "8161 JHL"
+}, {
+  "departureTime" : "2021-06-13T12:06:19",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-13T11:19:59",
+  "plate" : "9374 AOW"
+}, {
+  "departureTime" : "2021-04-18T10:35:06",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-18T09:48:19",
+  "plate" : "1288 JEE"
+}, {
+  "departureTime" : "2021-07-03T12:23:21",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-03T11:44:13",
+  "plate" : "8495 TEX"
+}, {
+  "departureTime" : "2021-08-14T18:14:50",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-14T16:42:49",
+  "plate" : "3275 VXA"
+}, {
+  "departureTime" : "2021-03-03T14:10:55",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-03T13:32:11",
+  "plate" : "0438 HIY"
+}, {
+  "departureTime" : "2021-10-17T13:39:59",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-17T12:52:10",
+  "plate" : "6843 CVM"
+}, {
+  "departureTime" : "2021-05-13T13:48:10",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-13T13:06:11",
+  "plate" : "6181 PPL"
+}, {
+  "departureTime" : "2021-06-26T11:20:48",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-26T10:25:25",
+  "plate" : "1781 CGF"
+}, {
+  "departureTime" : "2021-09-19T12:28:12",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-19T11:32:50",
+  "plate" : "3436 EMK"
+}, {
+  "departureTime" : "2021-03-06T14:07:26",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-03-06T13:29:09",
+  "plate" : "8891 GZJ"
+}, {
+  "departureTime" : "2021-10-18T12:43:33",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-18T11:30:31",
+  "plate" : "1710 DTL"
+}, {
+  "departureTime" : "2021-10-21T11:28:23",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-10-21T09:54:13",
+  "plate" : "2217 OJJ"
+}, {
+  "departureTime" : "2021-09-27T11:54:25",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-27T10:24:56",
+  "plate" : "7495 KBX"
+}, {
+  "departureTime" : "2021-11-10T18:40:42",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-10T18:11:43",
+  "plate" : "2145 KEY"
+}, {
+  "departureTime" : "2021-07-09T13:28:32",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-09T12:43:42",
+  "plate" : "8801 SPH"
+}, {
+  "departureTime" : "2021-04-13T15:49:49",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-13T15:39:35",
+  "plate" : "1135 WVC"
+}, {
+  "departureTime" : "2021-10-17T14:36:22",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-17T12:38:14",
+  "plate" : "7330 VYZ"
+}, {
+  "departureTime" : "2021-11-30T09:45:36",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-30T09:43:43",
+  "plate" : "7827 NBR"
+}, {
+  "departureTime" : "2021-02-24T09:27:21",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-02-24T08:58:45",
+  "plate" : "8962 ECA"
+}, {
+  "departureTime" : "2021-01-13T10:10:43",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-13T09:37:44",
+  "plate" : "7896 NII"
+}, {
+  "departureTime" : "2021-11-12T16:52:41",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-11-12T15:44:40",
+  "plate" : "2286 GNI"
+}, {
+  "departureTime" : "2021-12-05T15:27:47",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-05T14:07:04",
+  "plate" : "5306 HRJ"
+}, {
+  "departureTime" : "2021-07-10T15:37:44",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-10T14:14:08",
+  "plate" : "1919 IIB"
+}, {
+  "departureTime" : "2021-02-20T13:05:29",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-02-20T12:50:42",
+  "plate" : "1611 JEI"
+}, {
+  "departureTime" : "2021-03-25T17:21:05",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-03-25T15:47:18",
+  "plate" : "1919 AHH"
+}, {
+  "departureTime" : "2021-10-10T12:44:40",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-10T12:19:51",
+  "plate" : "9282 ZWF"
+}, {
+  "departureTime" : "2021-09-29T18:07:15",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-29T16:11:43",
+  "plate" : "6929 QHF"
+}, {
+  "departureTime" : "2021-09-16T10:41:01",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-16T10:23:32",
+  "plate" : "0245 TOK"
+}, {
+  "departureTime" : "2021-02-28T16:02:40",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-02-28T15:49:10",
+  "plate" : "1776 NHE"
+}, {
+  "departureTime" : "2021-03-29T15:23:14",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-03-29T14:55:55",
+  "plate" : "6109 KQD"
+}, {
+  "departureTime" : "2021-11-01T15:51:14",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-01T15:16:17",
+  "plate" : "2462 KNQ"
+}, {
+  "departureTime" : "2021-06-08T09:41:34",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-06-08T08:47:38",
+  "plate" : "5978 GHB"
+}, {
+  "departureTime" : "2021-06-28T14:44:17",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-06-28T14:06:38",
+  "plate" : "6348 FIU"
+}, {
+  "departureTime" : "2021-07-05T17:07:29",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-07-05T16:18:52",
+  "plate" : "8439 IJV"
+}, {
+  "departureTime" : "2021-07-13T20:07:53",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-13T19:33:09",
+  "plate" : "5713 SKT"
+}, {
+  "departureTime" : "2021-03-05T09:50:52",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-03-05T08:31:30",
+  "plate" : "9433 KPN"
+}, {
+  "departureTime" : "2021-08-01T19:36:41",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-01T17:39:40",
+  "plate" : "5189 MCW"
+}, {
+  "departureTime" : "2021-01-27T09:39:08",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-27T09:17:03",
+  "plate" : "1937 YKE"
+}, {
+  "departureTime" : "2021-04-10T12:46:43",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-04-10T11:33:01",
+  "plate" : "4758 VWB"
+}, {
+  "departureTime" : "2021-11-07T13:43:39",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-07T13:03:07",
+  "plate" : "2570 BIT"
+}, {
+  "departureTime" : "2021-10-15T13:03:59",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-15T11:24:08",
+  "plate" : "8360 OIB"
+}, {
+  "departureTime" : "2021-02-11T13:16:40",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-11T12:55:30",
+  "plate" : "6109 LEA"
+}, {
+  "departureTime" : "2021-12-18T14:39:13",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-18T13:51:32",
+  "plate" : "3765 OAM"
+}, {
+  "departureTime" : "2021-09-14T18:27:20",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-14T17:43:49",
+  "plate" : "6508 OHA"
+}, {
+  "departureTime" : "2021-07-10T17:41:37",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-10T17:29:47",
+  "plate" : "4991 QXI"
+}, {
+  "departureTime" : "2021-06-09T14:20:07",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-09T13:30:52",
+  "plate" : "2835 FDU"
+}, {
+  "departureTime" : "2021-08-09T12:43:17",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-08-09T12:13:24",
+  "plate" : "7502 CQU"
+}, {
+  "departureTime" : "2021-08-26T10:47:39",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-08-26T09:30:16",
+  "plate" : "9546 DUZ"
+}, {
+  "departureTime" : "2021-12-20T12:18:09",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-20T11:11:51",
+  "plate" : "7726 CGG"
+}, {
+  "departureTime" : "2021-09-03T13:29:49",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-09-03T11:53:15",
+  "plate" : "2112 HOJ"
+}, {
+  "departureTime" : "2021-04-20T09:48:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-20T08:03:09",
+  "plate" : "0110 GRI"
+}, {
+  "departureTime" : "2021-12-20T11:33:18",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-20T09:43:39",
+  "plate" : "4945 EPI"
+}, {
+  "departureTime" : "2021-11-18T11:10:02",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-18T10:56:42",
+  "plate" : "7932 KKN"
+}, {
+  "departureTime" : "2021-03-23T13:33:29",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-03-23T12:51:35",
+  "plate" : "5372 XHH"
+}, {
+  "departureTime" : "2021-02-01T07:50:23",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-01T07:34:59",
+  "plate" : "7296 YEZ"
+}, {
+  "departureTime" : "2021-09-26T10:45:33",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-26T09:00:20",
+  "plate" : "7102 ULU"
+}, {
+  "departureTime" : "2021-07-16T17:10:29",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-16T16:33:02",
+  "plate" : "0876 TNQ"
+}, {
+  "departureTime" : "2021-04-04T12:50:07",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T12:11:42",
+  "plate" : "5168 BPG"
+}, {
+  "departureTime" : "2021-10-11T11:56:06",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-11T11:36:30",
+  "plate" : "7957 TKL"
+}, {
+  "departureTime" : "2021-01-24T15:00:26",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-24T13:44:11",
+  "plate" : "9497 BNS"
+}, {
+  "departureTime" : "2021-10-20T18:22:17",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-20T17:55:37",
+  "plate" : "0746 QRA"
+}, {
+  "departureTime" : "2021-09-15T18:08:53",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-15T16:41:57",
+  "plate" : "7069 VTF"
+}, {
+  "departureTime" : "2021-07-20T13:11:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T11:57:59",
+  "plate" : "6521 VSQ"
+}, {
+  "departureTime" : "2021-05-30T18:18:15",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-30T16:58:56",
+  "plate" : "8749 WGF"
+}, {
+  "departureTime" : "2021-01-10T13:53:14",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-01-10T12:49:03",
+  "plate" : "4192 RUI"
+}, {
+  "departureTime" : "2021-05-03T13:36:23",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-03T12:26:37",
+  "plate" : "3580 QZG"
+}, {
+  "departureTime" : "2021-09-25T12:33:33",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-25T12:26:29",
+  "plate" : "6625 YGN"
+}, {
+  "departureTime" : "2021-02-16T17:30:47",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-02-16T17:07:51",
+  "plate" : "6610 QBJ"
+}, {
+  "departureTime" : "2021-12-14T10:47:39",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-12-14T10:07:11",
+  "plate" : "5059 GAY"
+}, {
+  "departureTime" : "2021-06-26T11:24:56",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-06-26T09:57:22",
+  "plate" : "6890 FFP"
+}, {
+  "departureTime" : "2021-07-02T12:24:24",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-07-02T12:02:44",
+  "plate" : "4436 GTJ"
+}, {
+  "departureTime" : "2021-12-27T15:23:11",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-12-27T14:22:49",
+  "plate" : "1477 ESW"
+}, {
+  "departureTime" : "2021-12-07T18:14:24",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-12-07T16:31:30",
+  "plate" : "8506 FAC"
+}, {
+  "departureTime" : "2021-11-07T11:08:02",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-07T09:24:24",
+  "plate" : "8645 XRS"
+}, {
+  "departureTime" : "2021-07-13T15:09:22",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-13T13:27:02",
+  "plate" : "3916 BJK"
+}, {
+  "departureTime" : "2021-12-15T12:37:44",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-15T12:25:39",
+  "plate" : "8775 VPM"
+}, {
+  "departureTime" : "2021-09-09T13:44:43",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-09T12:18:12",
+  "plate" : "6321 INZ"
+}, {
+  "departureTime" : "2021-10-31T15:33:01",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-31T14:07:49",
+  "plate" : "6515 AGI"
+}, {
+  "departureTime" : "2021-08-21T11:06:59",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-21T10:23:55",
+  "plate" : "4146 LIQ"
+}, {
+  "departureTime" : "2021-05-30T19:10:10",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-30T18:38:04",
+  "plate" : "2325 XYC"
+}, {
+  "departureTime" : "2021-02-08T09:45:44",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-08T09:17:24",
+  "plate" : "9925 MAU"
+}, {
+  "departureTime" : "2021-03-31T10:59:30",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-31T09:37:28",
+  "plate" : "9827 EIK"
+}, {
+  "departureTime" : "2021-10-10T17:00:43",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-10-10T15:01:45",
+  "plate" : "9721 MMC"
+}, {
+  "departureTime" : "2021-11-23T14:55:34",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-23T14:26:44",
+  "plate" : "7353 ZNR"
+}, {
+  "departureTime" : "2021-05-27T15:14:45",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-05-27T15:00:56",
+  "plate" : "0744 GHV"
+}, {
+  "departureTime" : "2021-05-31T15:10:20",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-05-31T13:48:40",
+  "plate" : "2646 KQN"
+}, {
+  "departureTime" : "2021-08-24T17:20:55",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-08-24T16:39:28",
+  "plate" : "9359 SYB"
+}, {
+  "departureTime" : "2021-08-28T13:57:22",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-08-28T13:28:12",
+  "plate" : "5662 RZF"
+}, {
+  "departureTime" : "2021-10-25T15:23:07",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-25T15:01:03",
+  "plate" : "7567 ILY"
+}, {
+  "departureTime" : "2021-07-14T16:26:04",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-07-14T16:21:13",
+  "plate" : "6425 ELI"
+}, {
+  "departureTime" : "2021-11-01T15:45:39",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-01T15:01:39",
+  "plate" : "3613 FLK"
+}, {
+  "departureTime" : "2021-03-08T13:27:50",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-03-08T13:12:36",
+  "plate" : "0000 BLA"
+}, {
+  "departureTime" : "2021-02-25T09:51:47",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-02-25T09:03:10",
+  "plate" : "8649 RZY"
+}, {
+  "departureTime" : "2021-05-15T12:32:45",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-15T12:28:45",
+  "plate" : "8352 EPQ"
+}, {
+  "departureTime" : "2021-04-11T10:01:37",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-11T08:06:29",
+  "plate" : "9102 AKS"
+}, {
+  "departureTime" : "2021-11-04T16:53:28",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-11-04T14:53:48",
+  "plate" : "3836 TOF"
+}, {
+  "departureTime" : "2021-01-25T16:55:57",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-01-25T16:32:06",
+  "plate" : "5073 OVT"
+}, {
+  "departureTime" : "2021-11-10T13:38:45",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-11-10T11:56:43",
+  "plate" : "6626 ADE"
+}, {
+  "departureTime" : "2021-12-05T18:42:44",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-05T16:50:23",
+  "plate" : "0177 GKO"
+}, {
+  "departureTime" : "2021-05-18T19:42",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-18T18:40:58",
+  "plate" : "8738 NPJ"
+}, {
+  "departureTime" : "2021-07-20T14:38:50",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-07-20T13:43:52",
+  "plate" : "3307 LIJ"
+}, {
+  "departureTime" : "2021-10-18T19:30:33",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-18T17:57:39",
+  "plate" : "0970 MZM"
+}, {
+  "departureTime" : "2021-09-20T19:33:10",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-09-20T17:45:25",
+  "plate" : "8625 VZE"
+}, {
+  "departureTime" : "2021-04-11T08:27:05",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-11T08:02:11",
+  "plate" : "3682 EBL"
+}, {
+  "departureTime" : "2021-12-05T15:05:16",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-05T14:19:15",
+  "plate" : "4891 UEI"
+}, {
+  "departureTime" : "2021-09-14T12:41:14",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-14T11:49:52",
+  "plate" : "2579 HKK"
+}, {
+  "departureTime" : "2021-09-15T16:22:51",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-15T14:33:05",
+  "plate" : "5982 GCB"
+}, {
+  "departureTime" : "2021-04-04T13:46:31",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-04T11:59:20",
+  "plate" : "4965 ORF"
+}, {
+  "departureTime" : "2021-07-03T20:50:46",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-07-03T19:40:22",
+  "plate" : "6983 WXT"
+}, {
+  "departureTime" : "2021-09-19T12:53:29",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-09-19T12:48:15",
+  "plate" : "1396 ACM"
+}, {
+  "departureTime" : "2021-06-13T10:05:58",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-13T08:49:44",
+  "plate" : "0228 OOV"
+}, {
+  "departureTime" : "2021-09-18T19:46:04",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-09-18T18:23:29",
+  "plate" : "7125 EYW"
+}, {
+  "departureTime" : "2021-11-22T11:04:02",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-22T09:47:36",
+  "plate" : "5232 WQQ"
+}, {
+  "departureTime" : "2021-05-30T13:13:33",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-30T11:25:53",
+  "plate" : "4400 GNS"
+}, {
+  "departureTime" : "2021-02-15T18:57:54",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-15T18:04:32",
+  "plate" : "1021 SUN"
+}, {
+  "departureTime" : "2021-04-27T11:42:01",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-27T10:10:12",
+  "plate" : "7127 UHE"
+}, {
+  "departureTime" : "2021-06-20T14:05:44",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-20T12:32:49",
+  "plate" : "4352 EWZ"
+}, {
+  "departureTime" : "2021-06-06T09:31:50",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-06-06T08:31:45",
+  "plate" : "8938 EUS"
+}, {
+  "departureTime" : "2021-09-08T11:21:17",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-08T09:33:05",
+  "plate" : "0195 SNE"
+}, {
+  "departureTime" : "2021-12-03T15:33:57",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-12-03T14:52:47",
+  "plate" : "6719 RMF"
+}, {
+  "departureTime" : "2021-11-29T20:30:25",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-29T19:12:21",
+  "plate" : "0484 ZYK"
+}, {
+  "departureTime" : "2021-05-25T13:03:19",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-25T11:10:10",
+  "plate" : "0774 WUX"
+}, {
+  "departureTime" : "2021-09-23T11:35:14",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-23T10:13:47",
+  "plate" : "9998 NUT"
+}, {
+  "departureTime" : "2021-01-13T10:58:12",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-13T09:16:57",
+  "plate" : "6013 WIX"
+}, {
+  "departureTime" : "2021-02-15T10:22:05",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-02-15T08:31:34",
+  "plate" : "2403 SXF"
+}, {
+  "departureTime" : "2021-08-13T18:15:59",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-08-13T17:40:09",
+  "plate" : "3875 OSK"
+}, {
+  "departureTime" : "2021-05-21T11:23:13",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-05-21T10:01:49",
+  "plate" : "6569 UEE"
+}, {
+  "departureTime" : "2021-12-25T13:26:57",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-25T13:21:54",
+  "plate" : "5914 BMQ"
+}, {
+  "departureTime" : "2021-12-19T10:11:16",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-12-19T09:58:16",
+  "plate" : "8531 AVV"
+}, {
+  "departureTime" : "2021-10-15T19:34:39",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-10-15T18:49:55",
+  "plate" : "0839 OSL"
+}, {
+  "departureTime" : "2021-02-19T14:45:45",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-02-19T13:00:35",
+  "plate" : "5074 VTK"
+}, {
+  "departureTime" : "2021-02-10T10:58:25",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-02-10T10:25:53",
+  "plate" : "0645 KGA"
+}, {
+  "departureTime" : "2021-03-06T13:22:59",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-03-06T12:56:12",
+  "plate" : "3467 DYU"
+}, {
+  "departureTime" : "2021-11-14T09:59:58",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-14T08:56:20",
+  "plate" : "7630 VPB"
+}, {
+  "departureTime" : "2021-10-11T20:08:49",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-10-11T18:55:56",
+  "plate" : "5304 BIN"
+}, {
+  "departureTime" : "2021-12-04T17:27:58",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-12-04T16:52:56",
+  "plate" : "5601 TIA"
+}, {
+  "departureTime" : "2021-05-25T10:39:19",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-05-25T10:28:49",
+  "plate" : "0995 LYO"
+}, {
+  "departureTime" : "2021-04-06T11:30:28",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-04-06T09:35:10",
+  "plate" : "6430 NNC"
+}, {
+  "departureTime" : "2021-09-22T19:43:46",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-09-22T18:02:50",
+  "plate" : "2294 BFE"
+}, {
+  "departureTime" : "2021-01-28T10:36:39",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-01-28T09:15:02",
+  "plate" : "2528 ZEP"
+}, {
+  "departureTime" : "2021-10-13T13:53:07",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-10-13T12:17:50",
+  "plate" : "4125 SMC"
+}, {
+  "departureTime" : "2021-09-16T13:01:43",
+  "dayOfWeek" : "THURSDAY",
+  "arrivalTime" : "2021-09-16T11:10:23",
+  "plate" : "3891 FSN"
+}, {
+  "departureTime" : "2021-01-27T17:53:20",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-01-27T16:05:58",
+  "plate" : "5563 LCJ"
+}, {
+  "departureTime" : "2021-04-11T16:19:21",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-11T15:14:13",
+  "plate" : "4745 UPB"
+}, {
+  "departureTime" : "2021-08-01T10:30:24",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-08-01T09:09:59",
+  "plate" : "3185 PYL"
+}, {
+  "departureTime" : "2021-11-08T09:10:54",
+  "dayOfWeek" : "MONDAY",
+  "arrivalTime" : "2021-11-08T08:36:10",
+  "plate" : "9076 OCX"
+}, {
+  "departureTime" : "2021-12-14T10:23:12",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-12-14T09:50:24",
+  "plate" : "0266 NWM"
+}, {
+  "departureTime" : "2021-07-04T19:37:18",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-07-04T18:28:16",
+  "plate" : "2267 GGT"
+}, {
+  "departureTime" : "2021-05-09T18:33:34",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-05-09T17:39:20",
+  "plate" : "4632 DPD"
+}, {
+  "departureTime" : "2021-03-03T12:04:36",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-03-03T11:13:27",
+  "plate" : "5361 JGO"
+}, {
+  "departureTime" : "2021-05-05T11:15:46",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-05-05T10:12:45",
+  "plate" : "6887 SRR"
+}, {
+  "departureTime" : "2021-05-01T09:45:36",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-05-01T09:25:49",
+  "plate" : "1140 QBL"
+}, {
+  "departureTime" : "2021-11-02T13:51:24",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-11-02T12:49:43",
+  "plate" : "6203 MUQ"
+}, {
+  "departureTime" : "2021-09-28T12:35:04",
+  "dayOfWeek" : "TUESDAY",
+  "arrivalTime" : "2021-09-28T11:24:03",
+  "plate" : "5484 AHY"
+}, {
+  "departureTime" : "2021-11-28T15:30:54",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-11-28T13:51:13",
+  "plate" : "0941 POF"
+}, {
+  "departureTime" : "2021-03-20T20:01:17",
+  "dayOfWeek" : "SATURDAY",
+  "arrivalTime" : "2021-03-20T18:02:11",
+  "plate" : "2621 HSK"
+}, {
+  "departureTime" : "2021-01-15T18:13:56",
+  "dayOfWeek" : "FRIDAY",
+  "arrivalTime" : "2021-01-15T17:45:36",
+  "plate" : "2203 IAB"
+}, {
+  "departureTime" : "2021-04-18T13:07:03",
+  "dayOfWeek" : "SUNDAY",
+  "arrivalTime" : "2021-04-18T12:59:04",
+  "plate" : "8585 OHC"
+}, {
+  "departureTime" : "2021-06-30T17:34:58",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-06-30T17:31:33",
+  "plate" : "1240 UYQ"
+}, {
+  "departureTime" : "2021-12-08T12:23:50",
+  "dayOfWeek" : "WEDNESDAY",
+  "arrivalTime" : "2021-12-08T11:29:31",
+  "plate" : "4458 TVU"
+} ]

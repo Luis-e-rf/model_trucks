@@ -1,0 +1,34 @@
+version: '3.7'
+
+services: 
+  dbtimescale:
+    image: timescale/timescaledb:2.1.1-pg13  
+    container_name: "timescaledb"
+    volumes:
+      - my-app:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DATABASE: postgres
+      POSTGRES_INITDB_WALDIR: /var/lib/postgresql/data/pg_wal
+      PGDATA: /var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+    networks:
+      - app
+  grafana:
+    image: grafana/grafana-enterprise:8.2.0
+    container_name: "grafana"
+    ports:
+      - 3000:3000
+    user: "root"
+    volumes:
+      - my-app:/var/lib/grafana/
+    networks:
+      - app
+volumes:
+  my-app:
+    name: luis-ernesto-rodriguez-felacio-volume
+networks:
+  app:
+    name: app_docker
