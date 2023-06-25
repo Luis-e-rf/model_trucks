@@ -3,4 +3,4 @@ numpy
 argparse
 scikit-learn
 jsons
-psycopg2
+psycopg2-binary
