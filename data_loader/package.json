@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "commander": "^9.1.0",
-    "fs": "^0.0.1-security",
-    "pg": "^8.7.3",
-    "pgtools": "^0.3.2"
+    "commander": "11.0.0",
+    "fs": "0.0.2",
+    "jsonwebtoken": "9.0.0",
+    "pg": "8.11.0",
+    "pgtools": "1.0.0",
+    "semver": "7.5.3"
   }
 }
