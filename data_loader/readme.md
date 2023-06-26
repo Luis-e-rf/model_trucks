@@ -31,6 +31,14 @@ npm install pgtools
 npm install commander
 ```
 
+```
+npm install semver
+```
+
+```
+npm install yargs-parser
+```
+
 ## Usage
 
 ```
