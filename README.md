@@ -23,7 +23,7 @@ Run the following command to start the application:
 
 `docker-compose up -d`
 
-Then you should access the `data_loader` folder where you will find the readme that will indicate the Node JS dependencies that you must install and then run the `data_loader.js` program, in this step you will create a database with the Timescale service and insert some training data.
+Then you should access the `data_loader` folder where you will find the readme that will indicate the Python dependencies that you must install and then run the `data_loader.py` program, in this step you will create a database with the Timescale service and insert some training data.
 
 Then access the grafana service by copying the following url in the browser:
 
@@ -69,8 +69,8 @@ Finally, we access the `dashboard` folder and we will follow the steps detailed 
 
 ```
 1. run docker-compose up -d
-2. access the data_loader folder and run the dependencies to install the Node JS libraries
-3. run the data_loader.js program to create the database and insert the training data
+2. access the data_loader folder and run the dependencies to install the Python libraries
+3. run the data_loader.py program to create the database and insert the training data
 4. access the data_extract folder and run the dependencies to install the Python libraries
 5. run the data_extract.py program to extract the data and generate the JSON files
 6. access the c4_5 folder and run the dependencies to install the Python libraries
